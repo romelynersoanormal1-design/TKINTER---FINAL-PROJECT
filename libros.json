@@ -1,0 +1,988 @@
+[
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": ["Distopía", "Ciencia Ficción"],
+    "año": 1949,
+    "resumen": "En un futuro dominado por un gobierno totalitario, Winston Smith vive bajo la vigilancia constante del Gran Hermano. Cansado de la manipulación y la falta de libertad, se rebela secretamente junto a Julia, su amante. Sin embargo, son descubiertos y torturados hasta que Winston pierde su capacidad de pensar libremente y termina amando al sistema que antes odiaba.",
+    "imagen": "imagenes-libros/1984.png"
+  },
+  {
+    "titulo": "La Odisea",
+    "autor": "Homero",
+    "genero": ["Épica", "Aventura"],
+    "año": -800,
+    "resumen": "Después de la guerra de Troya, Ulises (u Odiseo) emprende un largo viaje de regreso a su hogar en Ítaca. En el camino enfrenta monstruos, dioses y numerosas pruebas que ponen a prueba su inteligencia y valentía. Tras muchos años, logra volver disfrazado, derrota a los pretendientes que buscaban a su esposa Penélope y finalmente recupera su reino y su familia.",
+    "imagen": "imagenes-libros/odisea.png"
+  },
+  {
+    "titulo": "Frankenstein",
+    "autor": "Mary Shelley",
+    "genero": ["Ciencia Ficción", "Terror"],
+    "año": 1818,
+    "resumen": "El joven científico Víctor Frankenstein crea un ser con partes de cadáveres y le da vida, pero horrorizado por su aspecto lo abandona. La criatura, rechazada por todos, busca venganza contra su creador, causando dolor y tragedia a su alrededor. Al final, Víctor muere persiguiendo a su creación, y el monstruo, arrepentido, desaparece en la soledad.",
+    "imagen": "imagenes-libros/frankenstein.png"
+  },
+  {
+    "titulo": "Drácula",
+    "autor": "Bram Stoker",
+    "genero": ["Terror", "Gótico"],
+    "año": 1897,
+    "resumen": "El abogado Jonathan Harker viaja a Transilvania para ayudar al misterioso conde Drácula, quien resulta ser un vampiro. Drácula viaja a Inglaterra y comienza a aterrorizar a la gente, especialmente a Mina, la prometida de Harker. Con la ayuda del profesor Van Helsing y otros aliados, logran enfrentarlo y destruirlo, poniendo fin a su reinado de terror.",
+    "imagen": "imagenes-libros/dracula.png"
+  },
+  {
+    "titulo": "El señor de los anillos",
+    "autor": "J.R.R. Tolkien",
+    "genero": ["Fantasía", "Aventura"],
+    "año": 1954,
+    "resumen": "Frodo Bolsón hereda un anillo mágico con un poder oscuro capaz de dominar el mundo. Junto a un grupo de compañeros, emprende un peligroso viaje para destruirlo en el Monte del Destino. En el camino enfrentan guerras, traiciones y tentaciones, pero finalmente el bien triunfa y la paz regresa a la Tierra Media.",
+    "imagen": "imagenes-libros/elseñordelosanillos.png"
+  },
+  {
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "genero": ["Distopía", "Ciencia Ficción"],
+    "año": 1953,
+    "resumen": "En una sociedad futura donde los libros están prohibidos, los bomberos queman todo lo que contenga conocimiento. Montag, uno de ellos, comienza a cuestionar su papel y el vacío de su vida. Al descubrir el valor de la lectura, se rebela contra el sistema y huye en busca de personas que conservan la sabiduría para reconstruir la sociedad.",
+    "imagen": "imagenes-libros/fahrenheit451.png"
+  },
+  {
+    "titulo": "Harry Potter y la piedra filosofal",
+    "autor": "J.K. Rowling",
+    "genero": ["Fantasía", "Aventura"],
+    "año": 1997,
+    "resumen": "Harry Potter descubre que es un joven mago y comienza a estudiar en el colegio Hogwarts. Allí hace amigos, aprende magia y enfrenta peligros al descubrir que el malvado Lord Voldemort busca la Piedra Filosofal para recuperar su poder. Con valentía e ingenio, Harry logra impedirlo y se consolida como un héroe en el mundo mágico.",
+    "imagen": "imagenes-libros/harrypotterylapiedrafilosofal.png"
+  },
+  {
+    "titulo": "El código Da Vinci",
+    "autor": "Dan Brown",
+    "genero": ["Misterio", "Thriller"],
+    "año": 2003,
+    "resumen": "El profesor Robert Langdon se ve envuelto en una misteriosa investigación tras el asesinato de un curador del Museo del Louvre. Junto a la criptóloga Sophie Neveu, sigue una serie de pistas ocultas en obras de arte de Leonardo da Vinci que los llevan a descubrir secretos sobre el Santo Grial y una antigua sociedad. Al final, desentrañan la verdad y logran escapar de quienes intentaban silenciarlos.",
+    "imagen": "imagenes-libros/elcodigodavinci.png"
+  },
+  {
+    "titulo": "Los juegos del hambre",
+    "autor": "Suzanne Collins",
+    "genero": ["Distopía", "Acción"],
+    "año": 2008,
+    "resumen": "En un futuro controlado por el Capitolio, cada distrito debe enviar jóvenes a un torneo mortal televisado. Katniss Everdeen se ofrece como voluntaria para salvar a su hermana y debe luchar por su vida. Con valentía e inteligencia, desafía las reglas del sistema y se convierte en símbolo de esperanza y rebelión contra la opresión.",
+    "imagen": "imagenes-libros/losjuegosdelhambre.png"
+  },
+  {
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "genero": ["Realismo mágico", "Drama"],
+    "año": 1967,
+    "resumen": "La novela narra la historia de la familia Buendía a lo largo de varias generaciones en el pueblo ficticio de Macondo. A través de amores, tragedias y destinos repetidos, se muestra el paso del tiempo y la soledad que marca a cada miembro de la familia. Al final, Macondo y los Buendía desaparecen, cumpliendo un destino escrito desde el principio.",
+    "imagen": "imagenes-libros/cienañosdesoledad.png"
+  },
+  {
+    "titulo": "Orgullo y prejuicio",
+    "autor": "Jane Austen",
+    "genero": ["Romance", "Clásico"],
+    "año": 1813,
+    "resumen": "La historia sigue a Elizabeth Bennet, una joven inteligente e independiente que desafía las normas sociales de su tiempo. Al conocer al orgulloso señor Darcy, ambos chocan por sus prejuicios, pero con el tiempo descubren sus verdaderos sentimientos. A través de malentendidos y aprendizajes, la novela muestra cómo el amor supera el orgullo y las apariencias.",
+    "imagen": "imagenes-libros/orgulloyprejuicio.png"
+  },
+  {
+    "titulo": "Alicia en el país de las maravillas",
+    "autor": "Lewis Carroll",
+    "genero": ["Fantasía", "Aventura"],
+    "año": 1865,
+    "resumen": "Alicia cae por una madriguera y llega a un mundo fantástico lleno de criaturas extrañas y situaciones absurdas. Mientras busca regresar a casa, vive aventuras con personajes como el Sombrerero Loco y la Reina de Corazones. Su viaje refleja la curiosidad, la imaginación y el paso de la infancia a la madurez.",
+    "imagen": "imagenes-libros/aliciaenelpaisdelasmaravillas.png"
+  },
+  {
+    "titulo": "It",
+    "autor": "Stephen King",
+    "genero": ["Terror", "Suspenso"],
+    "año": 1986,
+    "resumen": "En el pueblo de Derry, un grupo de niños enfrenta a una aterradora criatura que adopta la forma de un payaso llamado Pennywise. Años después, ya adultos, regresan para detenerlo definitivamente. Unidos por su amistad y recuerdos del pasado, logran vencer al mal que había aterrorizado su infancia.",
+    "imagen": "imagenes-libros/it.png"
+  },
+  {
+    "titulo": "El alquimista",
+    "autor": "Paulo Coelho",
+    "genero": ["Filosófico", "Aventura"],
+    "año": 1988,
+    "resumen": "Santiago, un joven pastor andaluz, sueña con encontrar un tesoro en las pirámides de Egipto. En su viaje, conoce a personas que le enseñan sobre los signos del universo y la importancia de seguir sus sueños. Al final, descubre que el verdadero tesoro está dentro de sí mismo y en el aprendizaje de su propio camino.",
+    "imagen": "imagenes-libros/elalquimista.png"
+  },
+  {
+    "titulo": "Matar a un ruiseñor",
+    "autor": "Harper Lee",
+    "genero": ["Drama", "Ficción social"],
+    "año": 1960,
+    "resumen": "En un pueblo del sur de Estados Unidos, la niña Scout Finch narra la historia de su padre, Atticus, un abogado que defiende a un hombre negro acusado injustamente de un crimen. A través de los ojos de Scout, se revela la injusticia, el racismo y la pérdida de la inocencia, destacando la importancia de la empatía y la moral.",
+    "imagen": "imagenes-libros/mataraunruiseñor.png"
+  },
+  {
+    "titulo": "Los miserables",
+    "autor": "Victor Hugo",
+    "genero": ["Drama histórico", "Ficción social"],
+    "año": 1862,
+    "resumen": "Jean Valjean, un exconvicto que busca redimirse, es perseguido por el implacable inspector Javert. A lo largo de su vida, ayuda a los necesitados y cuida de Cosette, la hija de una mujer pobre. La historia muestra la lucha entre la justicia y la misericordia, y cómo el amor y la bondad pueden vencer al odio y la desesperanza.",
+    "imagen": "imagenes-libros/losmiserables.png"
+  },
+  {
+    "titulo": "La Divina Comedia",
+    "autor": "Dante Alighieri",
+    "genero": ["Poesía épica", "Religioso", "Filosófico"],
+    "año": 1320,
+    "resumen": "Dante emprende un viaje espiritual guiado por Virgilio y luego por Beatriz, recorriendo el Infierno, el Purgatorio y el Paraíso. A través de este recorrido, contempla las consecuencias del pecado, la redención y la perfección divina, simbolizando el camino del alma hacia la salvación y el conocimiento de Dios.",
+    "imagen": "imagenes-libros/ladivinacomedia.png"
+  },
+  {
+    "titulo": "El Decamerón",
+    "autor": "Giovanni Boccaccio",
+    "genero": ["Narrativa", "Cuentos", "Sátira social"],
+    "año": 1353,
+    "resumen": "Durante una peste en Florencia, diez jóvenes se refugian en el campo y pasan el tiempo contándose historias. A lo largo de diez días narran cien relatos sobre amor, ingenio, fortuna y moral. La obra refleja la vida humana con humor, crítica social y una visión realista del comportamiento y las pasiones de las personas.",
+    "imagen": "imagenes-libros/eldecameron.png"
+  },
+  {
+    "titulo": "Cancionero",
+    "autor": "Francesco Petrarca",
+    "genero": ["Poesía lírica", "Amor cortés"],
+    "año": 1374,
+    "resumen": "El Cancionero reúne poemas dedicados principalmente a Laura, el amor ideal e inalcanzable del autor. A través de sonetos y canciones, Petrarca expresa sus sentimientos de pasión, deseo, culpa y fe. La obra refleja el conflicto entre el amor terrenal y el espiritual, y marca el inicio del humanismo en la poesía del Renacimiento.",
+    "imagen": "imagenes-libros/cancionero.png"
+  },
+  {
+    "titulo": "Dune",
+    "autor": "Frank Herbert",
+    "genero": ["Ciencia Ficción", "Aventura"],
+    "año": 1965,
+    "resumen": "En un futuro lejano, el joven Paul Atreides llega al planeta desértico Arrakis, única fuente de una valiosa especia que otorga poder y longevidad. Tras la traición a su familia, Paul se une a los nativos Fremen, lidera una rebelión y cumple su destino como mesías. La historia combina política, religión y ecología en una épica lucha por el poder.",
+    "imagen": "imagenes-libros/dune.png"
+  },
+  {
+    "titulo": "Crónica de una muerte anunciada",
+    "autor": "Gabriel García Márquez",
+    "genero": ["Drama", "Misterio"],
+    "año": 1981,
+    "resumen": "En un pequeño pueblo, los hermanos Vicario anuncian que matarán a Santiago Nasar para vengar el honor de su hermana Ángela. A pesar de que todos saben lo que ocurrirá, nadie logra evitar el crimen. La historia reconstruye los hechos con ironía y fatalismo, mostrando cómo la costumbre y la indiferencia conducen a una tragedia inevitable.",
+    "imagen": "imagenes-libros/cronicadeunamuerteanunciada.png"
+  },
+  {
+    "titulo": "Los heraldos negros",
+    "autor": "César Vallejo",
+    "genero": ["Poesía", "Vanguardismo"],
+    "año": 1919,
+    "resumen": "El libro reúne poemas que expresan el dolor humano, la soledad y la injusticia de la vida. Con un lenguaje innovador y profundo, Vallejo refleja la angustia existencial y la lucha del hombre ante el sufrimiento. La obra marca el inicio de una poesía moderna en América Latina, cargada de sentimiento y reflexión sobre la condición humana.",
+    "imagen": "imagenes-libros/losheraldosnegros.png"
+  },
+  {
+    "titulo": "Trilce",
+    "autor": "César Vallejo",
+    "genero": ["Poesía", "Vanguardismo", "Experimental"],
+    "año": 1922,
+    "resumen": "Trilce es una obra poética vanguardista que rompe las normas del lenguaje tradicional para expresar la complejidad del dolor, la soledad y la incomprensión humana. Con un estilo experimental y emocional, Vallejo explora temas como el amor, la infancia, la cárcel y el tiempo, creando una poesía profundamente original y única en la literatura universal.",
+    "imagen": "imagenes-libros/trilce.png"
+  },
+  {
+    "titulo": "Rimas",
+    "autor": "Gustavo Adolfo Bécquer",
+    "genero": ["Poesía lírica", "Romanticismo"],
+    "año": 1871,
+    "resumen": "Una serie de poemas que muestran las emociones de un hombre marcado por el amor, la pasión y la tristeza. A través de versos sencillos pero profundos, se revela su viaje entre la ilusión romántica y el dolor del desengaño, reflejando la belleza y la melancolía del alma.",
+    "imagen": "imagenes-libros/rimas.png"
+  },
+  {
+    "titulo": "El retrato de Dorian Gray",
+    "autor": "Oscar Wilde",
+    "genero": ["Filosófico", "Gótico"],
+    "año": 1890,
+    "resumen": "Dorian Gray es un joven atractivo que desea permanecer siempre joven mientras su retrato envejece en su lugar. Seducido por una vida de placer y corrupción, su alma se oscurece con cada pecado reflejado en la pintura. Al final, intenta destruir el cuadro, pero termina destruyéndose a sí mismo.",
+    "imagen": "imagenes-libros/elretratodedoriangray.png"
+  },
+  {
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes Saavedra",
+    "genero": ["Sátira", "Aventura", "Clásico"],
+    "año": 1605,
+    "resumen": "Un hombre soñador llamado Alonso Quijano pierde la cabeza leyendo libros de caballería y se transforma en Don Quijote, un caballero que lucha contra molinos creyendo que son gigantes. Acompañado por su leal amigo Sancho Panza, vive aventuras llenas de humor, locura y reflexión sobre la delgada línea entre la fantasía y la realidad.",
+    "imagen": "imagenes-libros/donquijotedelamancha.png"
+  },
+  {
+    "titulo": "Ensayo sobre la ceguera",
+    "autor": "José Saramago",
+    "genero": ["Distopía", "Filosófico"],
+    "año": 1995,
+    "resumen": "Una extraña epidemia de ceguera se propaga sin control, sumiendo a la sociedad en el caos. Aislados y desesperados, los infectados luchan por sobrevivir mientras se desmoronan las normas y la humanidad misma. Solo una mujer conserva la vista, convirtiéndose en guía y testigo del colapso moral de un mundo que ha perdido no solo la vista, sino también la compasión.",
+    "imagen": "imagenes-libros/ensayosobrelaceguera.png"
+  },
+  {
+    "titulo": "El principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "genero": ["Fábula", "Filosófico"],
+    "año": 1943,
+    "resumen": "Un pequeño príncipe viaja desde su diminuto planeta hasta la Tierra, conociendo a curiosos personajes que le enseñan sobre la soledad, la amistad y el amor. A través de su encuentro con un aviador perdido en el desierto, descubre el valor de lo invisible y la importancia de mirar con el corazón, no solo con los ojos.",
+    "imagen": "imagenes-libros/elprincipito.png"
+  },
+  {
+    "titulo": "Las flores del mal",
+    "autor": "Charles Baudelaire",
+    "genero": ["Poesía", "Simbolismo"],
+    "año": 1857,
+    "resumen": "En un mundo lleno de belleza y desesperación, el poeta explora los extremos del alma humana: el deseo, el pecado, la melancolía y la búsqueda de redención. A través de versos intensos y provocadores, Las flores del mal revela la lucha constante entre el placer y el dolor, la pureza y la corrupción, en un viaje poético hacia lo más profundo del espíritu.",
+    "imagen": "imagenes-libros/lasfloresdelmal.png"
+  },
+  {
+    "titulo": "Rayuela",
+    "autor": "Julio Cortázar",
+    "genero": ["Experimental", "Realismo mágico"],
+    "año": 1963,
+    "resumen": "Horacio Oliveira, un intelectual argentino, vive entre París y Buenos Aires buscando un sentido a la vida y al amor. Su relación con la enigmática Maga y su constante cuestionamiento de la realidad lo llevan a un viaje interior lleno de confusión, arte y reflexión. Rayuela es una historia que se puede leer como un juego, donde cada capítulo abre nuevas formas de ver el mundo y a uno mismo.",
+    "imagen": "imagenes-libros/rayuela.png"
+  },
+  {
+    "titulo": "La casa de los espíritus",
+    "autor": "Isabel Allende",
+    "genero": ["Realismo mágico", "Drama familiar"],
+    "año": 1982,
+    "resumen": "A través de varias generaciones, la familia Trueba vive amores, tragedias y secretos que se entrelazan con los cambios sociales y políticos de su país. Lo mágico y lo real se mezclan en una historia donde los espíritus, la memoria y el destino revelan la fuerza del amor y la importancia de no olvidar el pasado.",
+    "imagen": "imagenes-libros/lacasadelosespiritus.png"
+  },
+  {
+    "titulo": "El nombre del viento",
+    "autor": "Patrick Rothfuss",
+    "genero": ["Fantasía", "Aventura"],
+    "año": 2007,
+    "resumen": "Kvothe, un joven con un talento extraordinario para la música y la magia, narra su vida desde sus humildes comienzos hasta convertirse en una figura legendaria. Marcado por la tragedia y la búsqueda de conocimiento, enfrenta peligros, misterios y enemigos poderosos mientras intenta descubrir la verdad sobre los seres que destruyeron su familia. Su historia es la de un héroe tan brillante como imperfecto.",
+    "imagen": "imagenes-libros/elnombredelviento.png"
+  },
+  {
+    "titulo": "Neuromante",
+    "autor": "William Gibson",
+    "genero": ["Ciencia Ficción", "Ciberpunk"],
+    "año": 1984,
+    "resumen": "Case, un hacker caído en desgracia, es reclutado para una peligrosa misión en un mundo dominado por corporaciones y realidades virtuales. Acompañado por la enigmática Molly, se adentra en el ciberespacio para enfrentar una inteligencia artificial que desafía los límites humanos. Neuromante combina acción, tecnología y oscuridad en una historia que dio origen al género ciberpunk.",
+    "imagen": "imagenes-libros/neuromante.png"
+  },
+  {
+    "titulo": "El perfume",
+    "autor": "Patrick Süskind",
+    "genero": ["Histórico", "Suspenso", "Filosófico"],
+    "año": 1985,
+    "resumen": "Jean-Baptiste Grenouille nace sin olor propio pero con un olfato prodigioso. Obsesionado con crear el perfume perfecto, recorre Francia cazando los aromas más exquisitos… incluso los de mujeres jóvenes. Su talento lo eleva por encima de todos, pero su ambición lo lleva a cometer crímenes atroces. El perfume es una historia inquietante sobre la obsesión, el poder y la locura.",
+    "imagen": "imagenes-libros/elperfume.png"
+  },
+  {
+    "titulo": "La sombra del viento",
+    "autor": "Carlos Ruiz Zafón",
+    "genero": ["Misterio", "Ficción histórica"],
+    "año": 2001,
+    "resumen": "En la Barcelona de la posguerra, el joven Daniel Sempere descubre un misterioso libro titulado La sombra del viento, escrito por un autor olvidado. Al intentar conocer su historia, se ve envuelto en una red de secretos, amores y tragedias que marcan su vida. Entre libros, sombras y recuerdos, Daniel descubre que cada historia tiene el poder de cambiar un destino.",
+    "imagen": "imagenes-libros/lasombradelviento.png"
+  },
+  {
+    "titulo": "Cumbres borrascosas",
+    "autor": "Emily Brontë",
+    "genero": ["Romance", "Gótico"],
+    "año": 1847,
+    "resumen": "Heathcliff y Catherine viven un amor intenso y tormentoso en los páramos de Cumbres Borrascosas. Separados por el orgullo y las diferencias sociales, su pasión se transforma en odio y venganza que perdura incluso después de la muerte. Cumbres borrascosas es una historia de amor oscuro, obsesión y destino que trasciende el tiempo y la razón.",
+    "imagen": "imagenes-libros/cumbresborrascosas.png"
+  },
+  {
+    "titulo": "El psicoanalista",
+    "autor": "John Katzenbach",
+    "genero": ["Thriller", "Psicológico"],
+    "año": 2002,
+    "resumen": "El Dr. Frederick Starks, un respetado psicoanalista, recibe una amenaza anónima: tiene 15 días para descubrir la identidad de su agresor o será destruido junto a sus seres queridos. Obligado a jugar un peligroso juego psicológico, Starks debe enfrentarse a su pasado y usar toda su astucia para sobrevivir. El psicoanalista es un thriller tenso donde mente y miedo se enfrentan sin tregua.",
+    "imagen": "imagenes-libros/elpsicoanalista.png"
+  },
+  {
+    "titulo": "La naranja mecánica",
+    "autor": "Anthony Burgess",
+    "genero": ["Distopía", "Ciencia Ficción"],
+    "año": 1962,
+    "resumen": "Alex, un joven violento y líder de una pandilla, vive disfrutando de sus crímenes en un mundo caótico. Tras ser capturado, se somete a un experimento de rehabilitación que busca suprimir su libre albedrío. La naranja mecánica explora la violencia, la libertad y la moralidad, mostrando el peligro de controlar la naturaleza humana a cualquier costo.",
+    "imagen": "imagenes-libros/lanaranjamecanica.png"
+  },
+  {
+    "titulo": "Tokio Blues (Norwegian Wood)",
+    "autor": "Haruki Murakami",
+    "genero": ["Drama", "Romance"],
+    "año": 1987,
+    "resumen": "Toru Watanabe, un joven universitario, se ve atrapado entre el amor y la pérdida mientras recuerda sus años en Tokio. Su relación con Naoko, marcada por la fragilidad emocional y la tragedia, y su encuentro con Midori, vibrante y libre, lo obligan a enfrentar el dolor, la soledad y el crecimiento personal. Tokio Blues es una historia íntima sobre la nostalgia, la madurez y la búsqueda de sentido en la vida.",
+    "imagen": "imagenes-libros/tokioblues(norwegianwood).png"
+  },
+  {
+    "titulo": "Kafka en la orilla",
+    "autor": "Haruki Murakami",
+    "genero": ["Filosófico", "Surrealismo"],
+    "año": 2002,
+    "resumen": "Kafka Tamura, un adolescente que huye de su hogar, y Nakata, un anciano con habilidades misteriosas, viven historias paralelas llenas de sueños, extraños sucesos y fuerzas sobrenaturales. A medida que sus caminos se entrelazan, ambos enfrentan secretos del pasado, identidad y destino. Kafka en la orilla es un viaje surrealista donde la realidad y la fantasía se confunden.",
+    "imagen": "imagenes-libros/kafkaenlaorilla.png"
+  },
+  {
+    "titulo": "La carretera",
+    "autor": "Cormac McCarthy",
+    "genero": ["Distopía", "Drama"],
+    "año": 2006,
+    "resumen": "Un padre y su hijo recorren un mundo devastado por el desastre, buscando sobrevivir entre ruinas, hambre y violencia. En su viaje hacia el sur, enfrentan peligros y momentos de desesperanza, pero mantienen la esperanza y el amor que los une. La carretera es una historia sobre la lucha por la supervivencia y la fuerza del vínculo familiar en un mundo sin esperanza.",
+    "imagen": "imagenes-libros/lacarretera.png"
+  },
+  {
+    "titulo": "La insoportable levedad del ser",
+    "autor": "Milan Kundera",
+    "genero": ["Filosófico", "Romance"],
+    "año": 1984,
+    "resumen": "En la Praga de la Primavera, Tomás, Teresa y Sabina viven amores intensos, pasiones y traiciones que cuestionan la libertad, el destino y la identidad. Sus vidas se entrelazan entre política, deseo y filosofía, mientras buscan sentido en un mundo donde cada elección parece al mismo tiempo ligera e irreversible. La insoportable levedad del ser explora el amor, la memoria y la existencia humana.",
+    "imagen": "imagenes-libros/lainsoportablelevedaddelser.png"
+  },
+  {
+    "titulo": "Crimen y castigo",
+    "autor": "Fiódor Dostoyevski",
+    "genero": ["Psicológico", "Filosófico", "Drama"],
+    "año": 1866,
+    "resumen": "Raskólnikov, un joven estudiante empobrecido, asesina a una anciana prestamista convencido de que su acto está justificado por su inteligencia y superioridad moral. Atrapado entre la culpa, la paranoia y la justicia, su mente se convierte en un campo de batalla. Crimen y castigo es una intensa exploración del remordimiento, la moral y la redención humana.",
+    "imagen": "imagenes-libros/crimenycastigo.png"
+  },
+  {
+    "titulo": "Los hermanos Karamázov",
+    "autor": "Fiódor Dostoyevski",
+    "genero": ["Filosófico", "Religioso", "Drama"],
+    "año": 1880,
+    "resumen": "Los hermanos Karamázov, cada uno con deseos y conflictos propios, se ven envueltos en la misteriosa muerte de su padre, un hombre egoísta y corrupto. Entre amor, fe, odio y moral, la familia enfrenta dilemas éticos y emocionales que revelan la complejidad del alma humana. Los hermanos Karamázov es un drama sobre la culpa, la justicia y la búsqueda de sentido en la vida.",
+    "imagen": "imagenes-libros/loshermanoskaramazov.png"
+  },
+  {
+    "titulo": "Guerra y paz",
+    "autor": "León Tolstói",
+    "genero": ["Histórico", "Drama", "Filosófico"],
+    "año": 1869,
+    "resumen": "En la Rusia de las guerras napoleónicas, las vidas de las familias Rostov y Bolkónski se entrelazan entre amor, ambición y pérdida. Mientras la historia avanza entre batallas y dilemas personales, los personajes enfrentan la fragilidad de la vida y el destino. Guerra y paz es una épica que mezcla historia, filosofía y emociones humanas en un relato inolvidable.",
+    "imagen": "imagenes-libros/guerraypaz.png"
+  },
+  {
+    "titulo": "Anna Karénina",
+    "autor": "León Tolstói",
+    "genero": ["Romance", "Realismo"],
+    "año": 1877,
+    "resumen": "Anna Karénina, atrapada en un matrimonio infeliz, se enamora del joven oficial Vronski, desafiando las normas sociales de la alta sociedad rusa. Su pasión la lleva a la felicidad y al escándalo, pero también a la desesperación y la tragedia. Anna Karénina es una historia intensa sobre el amor, la moral y las consecuencias de seguir el corazón frente a la sociedad.",
+    "imagen": "imagenes-libros/annakarenina.png"
+  },
+  {
+    "titulo": "El extranjero",
+    "autor": "Albert Camus",
+    "genero": ["Existencialismo", "Filosófico"],
+    "año": 1942,
+    "resumen": "Meursault, un hombre indiferente y distante, vive su vida sin seguir las convenciones sociales. Tras cometer un asesinato aparentemente sin motivo, enfrenta el juicio y la condena, reflejando su desapego y la absurda lógica de la sociedad. El extranjero es una historia sobre la indiferencia, el existencialismo y la búsqueda de sentido en un mundo absurdo.",
+    "imagen": "imagenes-libros/elextranjero.png"
+  },
+  {
+    "titulo": "La peste",
+    "autor": "Albert Camus",
+    "genero": ["Filosófico", "Existencialismo", "Drama"],
+    "año": 1947,
+    "resumen": "En la ciudad argelina de Orán, una epidemia de peste transforma la vida cotidiana en caos y miedo. Médicos, ciudadanos y autoridades luchan por sobrevivir y mantener la esperanza mientras enfrentan la muerte y la soledad. La peste es una historia sobre la solidaridad, la resistencia y la condición humana ante la adversidad.",
+    "imagen": "imagenes-libros/lapeste.png"
+  },
+  {
+    "titulo": "Siddhartha",
+    "autor": "Hermann Hesse",
+    "genero": ["Filosófico", "Espiritual"],
+    "año": 1922,
+    "resumen": "Siddhartha, un joven en busca de la verdad y la iluminación, abandona su vida cómoda para recorrer distintos caminos: la vida ascética, el placer y el aprendizaje junto a un río sabio. A través de experiencias y reflexiones, descubre que la verdadera sabiduría surge de la experiencia propia y de la armonía con la vida. Siddhartha es un viaje espiritual sobre la búsqueda interior y el sentido de la existencia.",
+    "imagen": "imagenes-libros/siddhartha.png"
+  },
+  {
+    "titulo": "El lobo estepario",
+    "autor": "Hermann Hesse",
+    "genero": ["Filosófico", "Psicológico"],
+    "año": 1927,
+    "resumen": "Harry Haller, un hombre dividido entre su lado humano y su naturaleza salvaje, lucha con la soledad y la alienación. A través de encuentros con personajes excéntricos y experiencias surrealistas, busca reconciliar sus contradicciones internas.",
+    "imagen": "imagenes-libros/elloboestepario.png"
+  },
+  {
+    "titulo": "Ulises",
+    "autor": "James Joyce",
+    "genero": ["Modernismo", "Experimental"],
+    "año": 1922,
+    "resumen": "Leopold Bloom recorre Dublín durante un solo día, enfrentando situaciones cotidianas que reflejan su pensamiento, emociones y recuerdos. Entre encuentros inesperados, recuerdos del pasado y reflexiones sobre la vida y la identidad, Bloom vive una jornada llena de introspección, encuentros y descubrimientos personales.",
+    "imagen": "imagenes-libros/ulises.png"
+  },
+  {
+    "titulo": "Retrato del artista adolescente",
+    "autor": "James Joyce",
+    "genero": ["Autobiográfico", "Modernismo"],
+    "año": 1916,
+    "resumen": "Stephen Dedalus crece en Irlanda, enfrentando la rigidez de la familia, la religión y la sociedad. A través de su educación y experiencias, descubre su pasión por el arte y la escritura, cuestionando las normas que lo rodean. La historia sigue su búsqueda de libertad y expresión personal mientras se forma como artista.",
+    "imagen": "imagenes-libros/retratodelartistaadolescente.png"
+  },
+  {
+    "titulo": "La metamorfosis",
+    "autor": "Franz Kafka",
+    "genero": ["Existencialismo", "Surrealismo"],
+    "año": 1915,
+    "resumen": "Gregorio Samsa despierta una mañana convertido en un insecto gigante, lo que altera por completo su vida y la de su familia. Mientras lucha por adaptarse a su nueva condición, enfrenta aislamiento, incomprensión y rechazo. La historia sigue su transformación física y emocional, mostrando la fragilidad de las relaciones humanas y la alienación.",
+    "imagen": "imagenes-libros/lametamorfosis.png"
+  },
+  {
+    "titulo": "El proceso",
+    "autor": "Franz Kafka",
+    "genero": ["Absurdismo", "Filosófico"],
+    "año": 1925,
+    "resumen": "Josef K., un hombre común, es arrestado inesperadamente por un crimen que nunca se le revela. Atrapado en un laberinto burocrático, enfrenta juicios absurdos y situaciones incomprensibles que lo desgastan física y emocionalmente. La historia sigue su lucha contra un sistema implacable y opaco que desafía toda lógica y justicia.",
+    "imagen": "imagenes-libros/elproceso.png"
+  },
+  {
+    "titulo": "Cuentos de amor, de locura y de muerte",
+    "autor": "Horacio Quiroga",
+    "genero": ["Terror", "Psicológico"],
+    "año": 1917,
+    "resumen": "Una colección de relatos que exploran los extremos de la emoción humana: el amor apasionado, la locura y la muerte inesperada. Los personajes enfrentan situaciones intensas en la naturaleza y la sociedad, donde el instinto, la obsesión y el destino marcan sus vidas de manera inevitable.",
+    "imagen": "imagenes-libros/cuentosdeamordelocuraydemuerte.png"
+  },
+  {
+    "titulo": "Pedro Páramo",
+    "autor": "Juan Rulfo",
+    "genero": ["Realismo mágico", "Drama"],
+    "año": 1955,
+    "resumen": "Juan Preciado llega al pueblo de Comala en busca de su padre, Pedro Páramo, y descubre un lugar habitado por fantasmas y recuerdos del pasado. Entre voces, secretos y apariciones, se desvela la historia de poder, ambición y arrepentimiento que marcó al pueblo y a sus habitantes.",
+    "imagen": "imagenes-libros/pedroparamo.png"
+  },
+  {
+    "titulo": "El túnel",
+    "autor": "Ernesto Sabato",
+    "genero": ["Psicológico", "Existencialismo"],
+    "año": 1948,
+    "resumen": "Juan Pablo Castel, un pintor obsesionado, narra su descenso hacia la obsesión y los celos tras conocer a María, la única persona que parece comprender su arte. Atrapado por sus propios pensamientos y emociones extremas, su pasión lo conduce a un desenlace trágico y perturbador.",
+    "imagen": "imagenes-libros/eltunel.png"
+  },
+  {
+    "titulo": "Ficciones",
+    "autor": "Jorge Luis Borges",
+    "genero": ["Fantasía", "Filosófico"],
+    "año": 1944,
+    "resumen": "Una colección de relatos que exploran mundos laberínticos, espejos, libros infinitos y realidades alternativas. Los personajes se enfrentan a enigmas filosóficos y a universos donde la ficción y la realidad se confunden, mostrando la infinita imaginación y el ingenio de sus autores.",
+    "imagen": "imagenes-libros/ficciones.png"
+  },
+  {
+    "titulo": "El Aleph",
+    "autor": "Jorge Luis Borges",
+    "genero": ["Filosófico", "Fantasía"],
+    "año": 1949,
+    "resumen": "Un hombre descubre en el sótano de una casa un punto que contiene todos los lugares del mundo simultáneamente: el Aleph. A través de esta visión, experimenta el universo entero y reflexiona sobre la memoria, la infinitud y la percepción de la realidad.",
+    "imagen": "imagenes-libros/elaleph.png"
+  },
+  {
+    "titulo": "Bestiario",
+    "autor": "Julio Cortázar",
+    "genero": ["Surrealismo", "Realismo mágico"],
+    "año": 1951,
+    "resumen": "Una colección de cuentos en la que lo cotidiano se mezcla con lo extraño y lo fantástico. Personajes enfrentan situaciones inesperadas y misteriosas que revelan lo absurdo, lo inquietante y lo sorprendente en la vida diaria.",
+    "imagen": "imagenes-libros/bestiario.png"
+  },
+  {
+    "titulo": "Final del juego",
+    "autor": "Julio Cortázar",
+    "genero": ["Realismo mágico", "Experimental"],
+    "año": 1956,
+    "resumen": "Un conjunto de cuentos que siguen a niños y jóvenes en juegos, descubrimientos y experiencias que revelan la transición entre la inocencia y la complejidad del mundo adulto. Entre lo cotidiano y lo inesperado, se exploran la imaginación, el deseo y los pequeños conflictos de la vida.",
+    "imagen": "imagenes-libros/finaldeljuego.png"
+  },
+  {
+    "titulo": "Conversación en La Catedral",
+    "autor": "Mario Vargas Llosa",
+    "genero": ["Político", "Ficción social"],
+    "año": 1969,
+    "resumen": "Santiago Zavala, un periodista desencantado, conversa con Ambrosio en un bar llamado La Catedral, desenterrando secretos sobre la corrupción política y social de Perú. A través de sus diálogos, se reconstruyen historias de poder, traición y decadencia, revelando un país marcado por la injusticia y la manipulación.",
+    "imagen": "imagenes-libros/conversacionenlacatedral.png"
+  },
+  {
+    "titulo": "La ciudad y los perros",
+    "autor": "Mario Vargas Llosa",
+    "genero": ["Ficción social", "Drama"],
+    "año": 1963,
+    "resumen": "En un colegio militar de Lima, un grupo de cadetes enfrenta la disciplina estricta, la rivalidad y la violencia interna. Entre secretos, traiciones y lealtades, se revelan los conflictos personales y la corrupción del sistema, mostrando cómo la dureza del entorno transforma a los jóvenes y sus relaciones.",
+    "imagen": "imagenes-libros/laciudadylosperros.png"
+  },
+  {
+    "titulo": "Pantaleón y las visitadoras",
+    "autor": "Mario Vargas Llosa",
+    "genero": ["Sátira", "Comedia"],
+    "año": 1973,
+    "resumen": "Pantaleón Pantoja, un oficial del ejército, recibe la misión de organizar un servicio de “visitadoras” para satisfacer a soldados en zonas remotas de la selva peruana. Entre burocracia, disciplina y enredos amorosos, la operación se complica, generando situaciones absurdas y cómicas que revelan la hipocresía y el humor de la vida militar.",
+    "imagen": "imagenes-libros/pantaleonylasvisitadoras.png"
+  },
+  {
+    "titulo": "2666",
+    "autor": "Roberto Bolaño",
+    "genero": ["Filosófico", "Experimental", "Drama"],
+    "año": 2004,
+    "resumen": "Varios personajes, desde críticos literarios hasta detectives, se ven atrapados en misterios que abarcan décadas y continentes, todos conectados por la desaparición de mujeres en la ciudad de Santa Teresa. La historia se mueve entre crimen, literatura y el caos de la historia moderna, mostrando un mundo oscuro, fragmentado y lleno de enigmas.",
+    "imagen": "imagenes-libros/2666.png"
+  },
+  {
+    "titulo": "Los detectives salvajes",
+    "autor": "Roberto Bolaño",
+    "genero": ["Narrativa contemporánea", "Poesía", "Drama"],
+    "año": 1998,
+    "resumen": "Dos jóvenes poetas, Arturo Belano y Ulises Lima, buscan a una poeta desaparecida mientras se mueven por México y el mundo literario. A través de entrevistas, viajes y recuerdos de quienes los rodean, la novela sigue su búsqueda de identidad, arte y libertad, mezclando realidad y aventura en un relato expansivo y caótico.",
+    "imagen": "imagenes-libros/losdetectivessalvajes.png"
+  },
+  {
+    "titulo": "La ladrona de libros",
+    "autor": "Markus Zusak",
+    "genero": ["Histórico", "Drama"],
+    "año": 2005,
+    "resumen": "Durante la Segunda Guerra Mundial en Alemania, Liesel Meminger encuentra consuelo robando libros y compartiéndolos con quienes la rodean. A través de la lectura y la amistad, enfrenta la guerra, la pérdida y la opresión nazi, descubriendo la fuerza de las palabras para resistir y sobrevivir.",
+    "imagen": "imagenes-libros/laladronadelibros.png"
+  },
+  {
+    "titulo": "Bajo la misma estrella",
+    "autor": "John Green",
+    "genero": ["Romance", "Drama"],
+    "año": 2012,
+    "resumen": "Hazel y Gus, dos adolescentes con cáncer, se conocen en un grupo de apoyo y se enamoran. Juntos viven momentos de alegría, reflexión y tristeza mientras enfrentan la enfermedad, descubriendo el amor, la esperanza y la intensidad de la vida incluso en medio de la adversidad.",
+    "imagen": "imagenes-libros/bajolamismaestrella.png"
+  },
+  {
+    "titulo": "El juego de Ender",
+    "autor": "Orson Scott Card",
+    "genero": ["Ciencia Ficción", "Bélico"],
+    "año": 1985,
+    "resumen": "Hazel y Gus, dos adolescentes con cáncer, se conocen en un grupo de apoyo y se enamoran. Juntos viven momentos de alegría, reflexión y tristeza mientras enfrentan la enfermedad, descubriendo el amor, la esperanza y la intensidad de la vida incluso en medio de la adversidad.",
+    "imagen": "imagenes-libros/eljuegodeender.png"
+  },
+  {
+    "titulo": "Ready Player One",
+    "autor": "Ernest Cline",
+    "genero": ["Ciencia Ficción", "Aventura"],
+    "año": 2011,
+    "resumen": "En un futuro distópico, Wade Watts se sumerge en el mundo virtual de OASIS, un universo lleno de videojuegos y desafíos. Compite en una carrera por encontrar un valioso “huevo de pascua” dejado por el creador del juego, enfrentando enemigos y superando pruebas que ponen a prueba su ingenio y valentía.",
+    "imagen": "imagenes-libros/readyplayerone.png"
+  },
+  {
+    "titulo": "El cuento de la criada",
+    "autor": "Margaret Atwood",
+    "genero": ["Distopía", "Feminismo"],
+    "año": 1985,
+    "resumen": "En una sociedad totalitaria llamada Gilead, las mujeres son privadas de derechos y usadas como reproductoras. Offred, una criada, lucha por sobrevivir mientras recuerda su vida anterior y busca formas de resistir al control opresivo. Entre miedo y esperanza, intenta mantener su identidad y humanidad.",
+    "imagen": "imagenes-libros/elcuentodelacriada.png"
+  },
+  {
+    "titulo": "Buenos presagios",
+    "autor": ["Neil Gaiman", "Terry Pratchett"],
+    "genero": ["Fantasía", "Comedia"],
+    "año": 1990,
+    "resumen": "El ángel Azirafel y el demonio Crowley, acostumbrados a vivir en la Tierra, intentan impedir el Apocalipsis. Con la ayuda de un niño que representa al Anticristo, se enfrentan a profecías, fuerzas sobrenaturales y situaciones absurdas, viviendo aventuras llenas de humor, ironía y caos mientras buscan salvar al mundo.",
+    "imagen": "imagenes-libros/buenospresagios.png"
+  },
+  {
+    "titulo": "American Gods",
+    "autor": "Neil Gaiman",
+    "genero": ["Fantasía", "Mitología"],
+    "año": 2001,
+    "resumen": "Shadow, un hombre común, se ve atrapado en una guerra entre antiguos dioses olvidados y nuevos dioses del poder moderno. Mientras viaja por Estados Unidos, descubre secretos sobre su pasado y el destino de las deidades, enfrentando magia, misterio y traiciones en un mundo donde la fe y la realidad se entrelazan.",
+    "imagen": "imagenes-libros/americangods.png"
+  },
+  {
+    "titulo": "Coraline",
+    "autor": "Neil Gaiman",
+    "genero": ["Terror", "Fantasía"],
+    "año": 2002,
+    "resumen": "Coraline descubre una puerta secreta en su nueva casa que la lleva a un mundo paralelo, similar al suyo pero más oscuro y aterrador. Allí, enfrenta versiones perversas de sus padres y criaturas extrañas, y debe usar su ingenio y valentía para rescatar a su familia y regresar a la realidad.",
+    "imagen": "imagenes-libros/coraline.png"
+  },
+  {
+    "titulo": "Nunca me abandones",
+    "autor": "Kazuo Ishiguro",
+    "genero": ["Distopía", "Drama"],
+    "año": 2005,
+    "resumen": "En un internado inglés aparentemente normal, Kathy, Tommy y Ruth descubren gradualmente la verdad sobre su origen y destino como donantes de órganos. Entre amistad y amor, enfrentan la inevitabilidad de la muerte y reflexionan sobre la vida, la memoria y lo que significa ser humano.",
+    "imagen": "imagenes-libros/nuncameabandones.png"
+  },
+  {
+    "titulo": "Klara y el sol",
+    "autor": "Kazuo Ishiguro",
+    "genero": ["Ciencia Ficción", "Filosófico"],
+    "año": 2021,
+    "resumen": "Klara, un androide diseñada para ser compañera de niños, observa el mundo desde la vitrina de una tienda mientras espera ser elegida. Al integrarse en la vida de su nueva familia, aprende sobre el amor, la esperanza y la fragilidad humana, enfrentando dilemas sobre la lealtad y el sacrificio.",
+    "imagen": "imagenes-libros/klarayelsol.png"
+  },
+  {
+    "titulo": "La historia interminable",
+    "autor": "Michael Ende",
+    "genero": ["Fantasía", "Aventura"],
+    "año": 1979,
+    "resumen": "Bastian, un niño tímido, descubre un libro mágico que lo transporta al reino de Fantasía, amenazado por la Nada. Mientras se convierte en parte de la historia, enfrenta desafíos, criaturas fantásticas y su propio miedo, viviendo aventuras que lo transforman y le enseñan sobre valentía, imaginación y autoconocimiento.",
+    "imagen": "imagenes-libros/lahistoriainterminable.png"
+  },
+  {
+    "titulo": "Los pilares de la Tierra",
+    "autor": "Ken Follett",
+    "genero": ["Histórico", "Drama"],
+    "año": 1989,
+    "resumen": "En la Edad Media, la construcción de una catedral en Kingsbridge conecta las vidas de nobles, campesinos y clérigos. Entre ambición, traiciones, amor y luchas de poder, los personajes enfrentan desafíos que transforman su destino y el de toda la ciudad, mientras la piedra y el sueño de la catedral perduran a través del tiempo.",
+    "imagen": "imagenes-libros/lospilaresdelatierra.png"
+  },
+  {
+    "titulo": "Sapiens: De animales a dioses",
+    "autor": "Yuval Noah Harari",
+    "genero": ["Ensayo", "Historia", "Filosofía"],
+    "año": 2011,
+    "resumen": "Yuval Noah Harari recorre la historia de la humanidad, desde los primeros Homo sapiens hasta la era moderna. Analiza cómo la cooperación, la cultura, la ciencia y la economía han transformado nuestra especie, mostrando cómo los mitos, el poder y la tecnología han dado forma a la civilización y al mundo actual.",
+    "imagen": "imagenes-libros/sapiensdeanimalesadioses.png"
+  },
+  {
+    "titulo": "Homo Deus: Breve historia del mañana",
+    "autor": "Yuval Noah Harari",
+    "genero": ["Ensayo", "Filosofía", "Ciencia"],
+    "año": 2015,
+    "resumen": "Yuval Noah Harari explora el posible futuro de la humanidad, donde la ciencia y la tecnología podrían superar las limitaciones biológicas y la muerte. A través de reflexiones sobre inteligencia artificial, biotecnología y ética, analiza cómo la búsqueda de poder, felicidad y divinidad podría redefinir lo que significa ser humano.",
+    "imagen": "imagenes-libros/homodeusbrevehistoriadelmañana.png"
+  },
+  {
+    "titulo": "El hombre en busca de sentido",
+    "autor": "Viktor Frankl",
+    "genero": ["Psicología", "Filosófico"],
+    "año": 1946
+  },
+  {
+    "titulo": "Meditaciones",
+    "autor": "Marco Aurelio",
+    "genero": ["Filosofía", "Estoicismo"],
+    "año": 180,
+    "resumen": "El emperador Marco Aurelio reflexiona sobre la vida, la virtud y la naturaleza humana en sus escritos personales. A través de pensamientos sobre la disciplina, la resiliencia y la aceptación del destino, busca comprender cómo vivir con sabiduría, serenidad y propósito en medio de los desafíos diarios.",
+    "imagen": "imagenes-libros/meditaciones.png"
+  },
+  {
+    "titulo": "Más allá del bien y del mal",
+    "autor": "Friedrich Nietzsche",
+    "genero": ["Filosofía", "Moral"],
+    "año": 1886
+  },
+  {
+    "titulo": "Así habló Zaratustra",
+    "autor": "Friedrich Nietzsche",
+    "genero": ["Filosofía", "Alegórico"],
+    "año": 1883
+  },
+  {
+    "titulo": "El arte de la guerra",
+    "autor": "Sun Tzu",
+    "genero": ["Estrategia", "Filosofía"],
+    "año": -500,
+    "resumen": "Sun Tzu expone estrategias y principios para la guerra, el liderazgo y la toma de decisiones. A través de enseñanzas sobre planificación, engaño, disciplina y conocimiento del enemigo, la obra ofrece lecciones aplicables tanto al conflicto militar como a la vida cotidiana y los negocios.",
+    "imagen": "imagenes-libros/elartedelaguerra.png"
+  },
+  {
+    "titulo": "El príncipe",
+    "autor": "Nicolás Maquiavelo",
+    "genero": ["Política", "Filosofía"],
+    "año": 1532
+  },
+    {
+    "titulo": "La Ilíada",
+    "autor": "Homero",
+    "genero": ["Épica", "Mitología"],
+    "año": -750,
+    "resumen": "Durante la guerra de Troya, el héroe Aquiles enfrenta conflictos de honor, ira y destino mientras lucha junto a los griegos contra los troyanos. Entre batallas, dioses interviniendo y tragedias personales, se desarrolla una historia de heroísmo, orgullo y las consecuencias de la guerra.",
+    "imagen": "imagenes-libros/lailiada.png"
+  },
+  {
+    "titulo": "La Eneida",
+    "autor": "Virgilio",
+    "genero": ["Épica", "Mitología"],
+    "año": -19,
+    "resumen": "Eneas, un héroe troyano, huye de la ciudad en ruinas tras la caída de Troya y emprende un largo viaje hacia Italia para fundar una nueva ciudad. Enfrentando dioses, enemigos y pruebas de valentía, su destino se cumple entre amor, sacrificio y liderazgo, sentando las bases de la futura Roma.",
+    "imagen": "imagenes-libros/laeneida.png"
+  },
+  {
+    "titulo": "Antígona",
+    "autor": "Sófocles",
+    "genero": ["Tragedia", "Drama"],
+    "año": -441
+  },
+  {
+    "titulo": "Edipo Rey",
+    "autor": "Sófocles",
+    "genero": ["Tragedia", "Drama"],
+    "año": -429,
+    "resumen": "Edipo, rey de Tebas, lucha por salvar a su ciudad de una terrible plaga, sin saber que él mismo es la causa de la tragedia. A medida que descubre la verdad sobre su origen y sus actos, enfrenta el horror de su destino, el incesto y la culpa, llevando a un desenlace trágico e inevitable.",
+    "imagen": "imagenes-libros/ediporey.png"
+  },
+  {
+    "titulo": "Las nubes",
+    "autor": "Aristófanes",
+    "genero": ["Comedia", "Sátira"],
+    "año": -423,
+    "resumen": "En esta comedia, Sócrates es retratado como un filósofo excéntrico que enseña a los jóvenes argumentos y razonamientos poco convencionales. Strepsiades, preocupado por las deudas de su hijo, recurre a sus enseñanzas, lo que provoca situaciones absurdas y críticas humorísticas a la educación y la sociedad ateniense de la época.",
+    "imagen": "imagenes-libros/lasnubes.png"
+  },
+  {
+    "titulo": "Prometeo encadenado",
+    "autor": "Esquilo",
+    "genero": ["Tragedia", "Mitología"],
+    "año": -460,
+    "resumen": "Prometeo, el titán que entregó el fuego a la humanidad, es castigado por Zeus y encadenado a una roca. Mientras sufre, mantiene su desafío ante los dioses y predice el futuro, mostrando resistencia y sacrificio. La obra explora la lucha entre poder, justicia y el espíritu rebelde frente a la autoridad divina.",
+    "imagen": "imagenes-libros/prometeoencadenado.png"
+  },
+  {
+    "titulo": "Las Bacantes",
+    "autor": "Eurípides",
+    "genero": ["Tragedia", "Mitología"],
+    "año": -405
+  },
+  {
+    "titulo": "Los trabajos y los días",
+    "autor": "Hesíodo",
+    "genero": ["Didáctico", "Mitología"],
+    "año": -700,
+    "resumen": "Hesíodo ofrece consejos prácticos y morales sobre la vida cotidiana, el trabajo, la agricultura y la justicia. A través de relatos sobre los dioses y las estaciones, enseña cómo vivir con esfuerzo, prudencia y rectitud, mostrando la importancia del orden y la disciplina en la vida humana.",
+    "imagen": "imagenes-libros/lostrabajosylosdias.png"
+  },
+  {
+    "titulo": "Los Nueve Libros de la Historia",
+    "autor": "Heródoto",
+    "genero": ["Historia", "Ensayo"],
+    "año": -430,
+    "resumen": "Heródoto narra los eventos, culturas y guerras del mundo antiguo, especialmente las Guerras Médicas entre griegos y persas. A través de relatos de batallas, tradiciones y personajes históricos, reconstruye la historia de diferentes pueblos, combinando hechos, mitos y observaciones personales sobre la humanidad.",
+    "imagen": "imagenes-libros/losnuevelibrosdelahistoria.png"
+  },
+  {
+    "titulo": "Anábasis",
+    "autor": "Jenofonte",
+    "genero": ["Historia", "Aventura"],
+    "año": -370,
+    "resumen": "Jenofonte relata la expedición de los Diez Mil, un ejército griego contratado para apoyar a un príncipe persa, y su peligrosa retirada a través de territorios enemigos. Entre batallas, estrategia y resistencia, los soldados enfrentan el hambre, el frío y la traición, mostrando coraje y disciplina en su lucha por sobrevivir y regresar a Grecia.",
+    "imagen": "imagenes-libros/anabasis.png"
+  },
+  {
+    "titulo": "La República",
+    "autor": "Platón",
+    "genero": ["Filosofía", "Política"],
+    "año": -380,
+    "resumen": "A través de diálogos filosóficos, Sócrates y sus interlocutores exploran la justicia, la organización de la sociedad y la naturaleza del alma humana. Entre debates sobre poder, educación y virtud, se dibuja la visión de un mundo ideal donde la armonía y la sabiduría guían la vida de los ciudadanos.",
+    "imagen": "imagenes-libros/larepublica.png"
+  },
+  {
+    "titulo": "Ética a Nicómaco",
+    "autor": "Aristóteles",
+    "genero": ["Filosofía", "Ética"],
+    "año": -340
+  },
+  {
+    "titulo": "Los doce libros de los elementos",
+    "autor": "Euclides",
+    "genero": ["Matemática", "Ciencia"],
+    "año": -300
+  },
+  {
+    "titulo": "Los trabajos de Heracles",
+    "autor": "Pseudo-Apolodoro",
+    "genero": ["Mitología", "Narrativa"],
+    "año": -100
+  },
+  {
+    "titulo": "Fábulas",
+    "autor": "Esopo",
+    "genero": ["Fábula", "Didáctico"],
+    "año": -600,
+    "resumen": "Una colección de historias cortas protagonizadas por animales con características humanas que enfrentan situaciones de la vida cotidiana. Cada relato transmite lecciones sobre la moral, la astucia, la honestidad y la sabiduría, mostrando cómo las decisiones y comportamientos afectan el destino de los personajes.",
+    "imagen": "imagenes-libros/fabulas.png"
+  },
+  {
+    "titulo": "La Biblia",
+    "autor": "Varios autores",
+    "genero": ["Religioso", "Sagrado"],
+    "año": -500,
+    "resumen": "Una colección de relatos, leyes, poesías y enseñanzas que narran la relación entre Dios y la humanidad. A través de historias de creación, profetas, reyes y milagros, se transmiten valores, fe y reflexiones sobre la vida, el amor, la justicia y la redención a lo largo de los tiempos.",
+    "imagen": "imagenes-libros/labiblia.png"
+  },
+  {
+    "titulo": "El Corán",
+    "autor": "Mahoma",
+    "genero": ["Religioso", "Sagrado"],
+    "año": 632
+  },
+  {
+    "titulo": "El Bhagavad Gita",
+    "autor": "Vyasa",
+    "genero": ["Filosofía", "Espiritualidad"],
+    "año": -200
+  },
+  {
+    "titulo": "El Mahabharata",
+    "autor": "Vyasa",
+    "genero": ["Épica", "Mitología"],
+    "año": -400
+  },
+  {
+    "titulo": "El Ramayana",
+    "autor": "Valmiki",
+    "genero": ["Épica", "Mitología"],
+    "año": -300
+  },
+  {
+    "titulo": "El Popol Vuh",
+    "autor": "Anónimo",
+    "genero": ["Mitología", "Religioso"],
+    "año": 1550
+  },
+  {
+    "titulo": "Beowulf",
+    "autor": "Anónimo",
+    "genero": ["Épica", "Mitología"],
+    "año": 975
+  },
+  {
+    "titulo": "El cantar de mio Cid",
+    "autor": "Anónimo",
+    "genero": ["Épica", "Medieval"],
+    "año": 1200,
+    "resumen": "Rodrigo Díaz de Vivar, conocido como el Cid, es desterrado injustamente de Castilla y lucha por recuperar su honor y el de su familia. Entre batallas, alianzas y estrategias, demuestra valentía y lealtad, ganándose respeto y reconocimiento, mientras se consagra como un héroe legendario de la historia española.",
+    "imagen": "imagenes-libros/elcantardemiocid.png"
+  },
+  {
+    "titulo": "Las mil y una noches",
+    "autor": "Anónimo",
+    "genero": ["Cuentos", "Aventura", "Mitología"],
+    "año": 800
+  },
+    {
+    "titulo": "Cantar de Roldán",
+    "autor": "Anónimo",
+    "genero": ["Épica", "Medieval"],
+    "año": 1100
+  },
+  {
+    "titulo": "Tristán e Isolda",
+    "autor": "Anónimo",
+    "genero": ["Romance", "Leyenda artúrica"],
+    "año": 1170
+  },
+  {
+    "titulo": "Perceval o el cuento del Grial",
+    "autor": "Chrétien de Troyes",
+    "genero": ["Caballería", "Leyenda artúrica"],
+    "año": 1190
+  },
+  {
+    "titulo": "La canción de los Nibelungos",
+    "autor": "Anónimo",
+    "genero": ["Épica", "Mitología germánica"],
+    "año": 1200
+  },
+  {
+    "titulo": "Roman de la Rose",
+    "autor": ["Guillaume de Lorris", "Jean de Meung"],
+    "genero": ["Allegórico", "Romance"],
+    "año": 1230
+  },
+  {
+    "titulo": "La leyenda dorada",
+    "autor": "Jacobo de la Vorágine",
+    "genero": ["Religioso", "Hagiografía"],
+    "año": 1260
+  },
+  {
+    "titulo": "Summa Theologica",
+    "autor": "Tomás de Aquino",
+    "genero": ["Filosofía", "Teología"],
+    "año": 1274
+  },
+  {
+    "titulo": "Libro de buen amor",
+    "autor": "Juan Ruiz (Arcipreste de Hita)",
+    "genero": ["Sátira", "Poético", "Didáctico"],
+    "año": 1330
+  },
+  {
+    "titulo": "Los cuentos de Canterbury",
+    "autor": "Geoffrey Chaucer",
+    "genero": ["Cuentos", "Sátira social"],
+    "año": 1387
+  },
+  {
+    "titulo": "Decir de las siete artes liberales",
+    "autor": "Alain de Lille",
+    "genero": ["Filosofía", "Didáctico"],
+    "año": 1175
+  },
+  {
+    "titulo": "La historia de Genji",
+    "autor": "Murasaki Shikibu",
+    "genero": ["Romance", "Corte imperial japonesa"],
+    "año": 1010
+  },
+  {
+    "titulo": "El libro de Marco Polo (Il Milione)",
+    "autor": "Marco Polo",
+    "genero": ["Viajes", "Crónica"],
+    "año": 1298
+  },
+  {
+    "titulo": "El collar de la paloma",
+    "autor": "Ibn Hazm",
+    "genero": ["Filosofía", "Romance", "Ensayo"],
+    "año": 1022
+  },
+  {
+    "titulo": "La consolación de la filosofía",
+    "autor": "Boecio",
+    "genero": ["Filosofía", "Reflexión moral"],
+    "año": 524
+  },
+  {
+    "titulo": "Las confesiones",
+    "autor": "San Agustín de Hipona",
+    "genero": ["Filosofía", "Religioso", "Autobiográfico"],
+    "año": 398
+  },
+  {
+    "titulo": "El libro del caballero Zifar",
+    "autor": "Anónimo",
+    "genero": ["Caballería", "Aventura"],
+    "año": 1300
+  },
+  {
+    "titulo": "Edda poética",
+    "autor": "Anónimo islandés",
+    "genero": ["Mitología nórdica", "Épica"],
+    "año": 1270
+  },
+  {
+    "titulo": "Edda prosaica",
+    "autor": "Snorri Sturluson",
+    "genero": ["Mitología nórdica", "Manual poético"],
+    "año": 1220
+  },
+  {
+    "titulo": "La historia eclesiástica del pueblo inglés",
+    "autor": "Beda el Venerable",
+    "genero": ["Historia", "Religioso"],
+    "año": 731
+  },
+  {
+    "titulo": "El Conde Lucanor",
+    "autor": "Don Juan Manuel",
+    "genero": ["Narrativa", "Didáctico"],
+    "año": 1335
+  },
+  {
+    "titulo": "Le Morte d’Arthur",
+    "autor": "Thomas Malory",
+    "genero": ["Caballería", "Leyenda artúrica"],
+    "año": 1485
+  },
+  {
+    "titulo": "El libro de la vida contemplativa",
+    "autor": "San Bernardo de Claraval",
+    "genero": ["Filosofía", "Religioso"],
+    "año": 1150
+  },
+  {
+    "titulo": "De civitate Dei (La ciudad de Dios)",
+    "autor": "San Agustín de Hipona",
+    "genero": ["Filosofía", "Teología"],
+    "año": 426
+  }
+]

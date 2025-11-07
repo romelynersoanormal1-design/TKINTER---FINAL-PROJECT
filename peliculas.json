@@ -1,0 +1,928 @@
+[
+  {
+    "titulo": "Titanic",
+    "director": "James Cameron",
+    "genero": [
+      "Romance",
+      "Drama"
+    ],
+    "año": "1997 d.C.",
+    "resumen": "Jack y Rose, de mundos opuestos, se enamoran a bordo del lujoso Titanic durante su viaje inaugural. Mientras viven un romance apasionado, el enorme barco choca contra un iceberg, desatando el caos y la tragedia. Entre heroísmo, sacrificio y desesperación, ambos enfrentan la lucha por sobrevivir en medio del desastre.",
+    "imagen": "imagenes-peliculas/eltitanic.png"
+  },
+  {
+    "titulo": "El Padrino",
+    "director": "Francis Ford Coppola",
+    "genero": [
+      "Crimen",
+      "Drama"
+    ],
+    "año": 1972,
+    "resumen": "Tras un atentado contra el jefe mafioso Vito Corleone, su hijo Michael, un exsoldado que quería vivir lejos del crimen, se ve forzado a tomar las riendas del negocio familiar. Lo que empieza como un acto de protección se convierte en una despiadada lucha por el poder, transformando a Michael en el nuevo y temido Padrino. Una historia de familia, traición y ambición en el corazón de la mafia.",
+    "imagen": "imagenes-peliculas/elpadrino.png"
+  },
+  {
+    "titulo": "Inception",
+    "director": "Christopher Nolan",
+    "genero": [
+      "Ciencia Ficción",
+      "Acción",
+      "Misterio"
+    ],
+    "año": 2010,
+    "resumen": "Dom Cobb es un ladrón experto en entrar en los sueños de las personas para robar sus secretos más profundos. Cuando se le ofrece la oportunidad de borrar su pasado, acepta una misión casi imposible: implantar una idea en la mente de alguien, en lugar de robarla. Para lograrlo, forma un equipo y se adentra en múltiples niveles de sueños donde la línea entre la realidad y la ilusión se vuelve cada vez más difusa.",
+    "imagen": "imagenes-peliculas/inception.png"
+  },
+  {
+    "titulo": "La La Land",
+    "director": "Damien Chazelle",
+    "genero": [
+      "Musical",
+      "Romance",
+      "Drama"
+    ],
+    "año": 2016,
+    "resumen": "Mia, una aspirante a actriz, y Sebastian, un pianista de jazz, se enamoran mientras persiguen sus sueños en Los Ángeles. Unidos por su pasión y ambición, deberán enfrentar las decisiones que pondrán a prueba su relación y sus metas personales. Una historia de amor, arte y sacrificio en la búsqueda de hacer realidad los sueños.",
+    "imagen": "imagenes-peliculas/lalaland.png"
+  },
+  {
+    "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+    "director": "Peter Jackson",
+    "año": 2001,
+    "genero": [
+      "Fantasía",
+      "Aventura",
+      "Acción"
+    ],
+    "resumen": "Cuando el joven Frodo Bolsón hereda un anillo con un oscuro poder, descubre que debe destruirlo antes de que el malvado Sauron lo recupere y domine la Tierra Media. Acompañado por una comunidad de humanos, elfos, enanos y hobbits, emprende un peligroso viaje lleno de batallas, magia y amistad para cumplir su misión y salvar su mundo del mal absoluto.",
+    "imagen": "imagenes-peliculas/elseñordelosanilloslacomunidaddelanillo.png"
+  },
+  {
+    "titulo": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "año": 1994,
+    "genero": [
+      "Drama",
+      "Comedia",
+      "Romance"
+    ],
+    "resumen": "Forrest Gump, un hombre con un corazón puro y una visión sencilla de la vida, narra su increíble historia mientras espera el autobús. Sin proponérselo, se convierte en testigo y protagonista de grandes momentos de la historia estadounidense, siempre guiado por su amor por Jenny. Una conmovedora historia sobre la inocencia, la perseverancia y cómo la bondad puede cambiar el mundo.",
+    "imagen": "imagenes-peliculas/forrestgump.png"
+  },
+  {
+    "titulo": "Avengers: Endgame",
+    "director": "Anthony y Joe Russo",
+    "año": 2019,
+    "genero": [
+      "Acción",
+      "Ciencia Ficción",
+      "Aventura"
+    ],
+    "resumen": "Después de que Thanos elimina a la mitad del universo, los Vengadores que sobrevivieron deben unirse una vez más para revertir la tragedia. Con un plan arriesgado que involucra viajes en el tiempo, enfrentan su batalla más grande y definitiva. Entre sacrificios, pérdidas y heroísmo, los héroes luchan por restaurar la esperanza y cerrar una era del Universo Marvel.",
+    "imagen": "imagenes-peliculas/avengersendgame.png"
+  },
+  {
+    "titulo": "Coco",
+    "director": "Lee Unkrich",
+    "año": 2017,
+    "genero": [
+      "Animación",
+      "Aventura",
+      "Familiar"
+    ],
+    "resumen": "Miguel, un niño que sueña con ser músico a pesar de la prohibición de su familia, viaja accidentalmente al Mundo de los Muertos durante el Día de los Muertos. Allí busca a su tatarabuelo para obtener su bendición y regresar al mundo de los vivos. En su aventura, descubre la importancia de la familia, la memoria y de nunca olvidar a quienes amamos.",
+    "imagen": "imagenes-peliculas/coco.png"
+  },
+  {
+    "titulo": "Parásitos",
+    "director": "Bong Joon-ho",
+    "año": 2019,
+    "genero": [
+      "Drama",
+      "Suspenso"
+    ],
+    "resumen": "La familia Kim, que vive en la pobreza, logra infiltrarse poco a poco en la vida de los ricos Park, haciéndose pasar por trabajadores calificados. Al principio todo parece ir bien, pero una serie de giros oscuros revela hasta dónde pueden llegar las diferencias sociales y la desesperación humana. Una intensa mezcla de drama, comedia y suspenso sobre la desigualdad y las apariencias.",
+    "imagen": "imagenes-peliculas/parasitos.png"
+  },
+  {
+    "titulo": "Intensamente",
+    "director": "Pete Docter",
+    "año": 2015,
+    "genero": [
+      "Animación",
+      "Familiar",
+      "Comedia"
+    ],
+    "resumen": "Dentro de la mente de Riley, una niña de 11 años, viven cinco emociones: Alegría, Tristeza, Furia, Temor y Desagrado, que la guían en su vida diaria. Cuando un cambio importante altera su mundo, las emociones deben trabajar juntas para ayudarla a adaptarse y entender sus sentimientos. Una historia emotiva y colorida sobre el valor de aceptar todas las emociones.",
+    "imagen": "imagenes-peliculas/intensamente.png"
+  },
+  {
+    "titulo": "Gladiator",
+    "director": "Ridley Scott",
+    "genero": [
+      "Acción",
+      "Drama",
+      "Histórica"
+    ],
+    "año": 2000,
+    "resumen": "Máximo Décimo Meridio, un leal general del Imperio Romano, es traicionado por el ambicioso Cómodo, hijo del emperador. Tras perder a su familia y ser condenado a la esclavitud, Máximo se convierte en gladiador y lucha en la arena buscando venganza y justicia. Una épica historia de honor, poder y redención en la antigua Roma.",
+    "imagen": "imagenes-peliculas/gladiator.png"
+  },
+  {
+    "titulo": "Avatar",
+    "director": "James Cameron",
+    "genero": [
+      "Ciencia Ficción",
+      "Aventura"
+    ],
+    "año": 2009,
+    "resumen": "En el exuberante mundo de Pandora, el exmarine Jake Sully es enviado a convivir con los Na’vi a través de un cuerpo avatar para ayudar a los humanos a explotar los recursos del planeta. Sin embargo, al enamorarse de Neytiri y su cultura, Jake debe elegir entre obedecer a su gente o proteger el mundo que ha aprendido a amar. Una aventura visual sobre la conexión con la naturaleza y la lucha por la libertad.",
+    "imagen": "imagenes-peliculas/avatar.png"
+  },
+  {
+    "titulo": "Joker",
+    "director": "Todd Phillips",
+    "genero": [
+      "Drama",
+      "Crimen",
+      "Psicológica"
+    ],
+    "año": 2019,
+    "resumen": "Arthur Fleck, un hombre marginado que sueña con ser comediante, lucha por mantener la cordura en una ciudad hostil y desigual. Rechazado por la sociedad, su sufrimiento lo lleva a transformarse en el temido Joker, símbolo del caos y la rebelión. Un oscuro retrato sobre la soledad, la injusticia y la pérdida de la empatía humana.",
+    "imagen": "imagenes-peliculas/joker.png"
+  },
+  {
+    "titulo": "Matrix",
+    "director": "Lana y Lilly Wachowski",
+    "genero": [
+      "Acción",
+      "Ciencia Ficción"
+    ],
+    "año": 1999,
+    "resumen": "Neo, un joven hacker, descubre que el mundo en el que vive es una simulación creada por máquinas para controlar a la humanidad. Guiado por Morpheus y Trinity, se une a la resistencia para liberar a las personas de la ilusión y enfrentar al sistema que las esclaviza. Una revolucionaria historia de acción y ciencia ficción sobre la realidad, la libertad y el poder de la elección.",
+    "imagen": "imagenes-peliculas/matrix.png"
+  },
+  {
+    "titulo": "Amélie",
+    "director": "Jean-Pierre Jeunet",
+    "genero": [
+      "Comedia",
+      "Romance"
+    ],
+    "año": 2001
+  },
+  {
+    "titulo": "Gloria",
+    "director": "Sebastián Lelio",
+    "genero": [
+      "Drama"
+    ],
+    "año": 2013
+  },
+  {
+    "titulo": "Rocky",
+    "director": "John G. Avildsen",
+    "genero": [
+      "Drama",
+      "Deportes"
+    ],
+    "año": 1976
+  },
+  {
+    "titulo": "Frozen",
+    "director": "Chris Buck y Jennifer Lee",
+    "genero": [
+      "Animación",
+      "Familiar",
+      "Musical"
+    ],
+    "año": 2013
+  },
+  {
+    "titulo": "Alien",
+    "director": "Ridley Scott",
+    "genero": [
+      "Terror",
+      "Ciencia Ficción"
+    ],
+    "año": 1979
+  },
+  {
+    "titulo": "Memento",
+    "director": "Christopher Nolan",
+    "genero": [
+      "Misterio",
+      "Thriller",
+      "Drama"
+    ],
+    "año": 2000
+  },
+  {
+    "titulo": "Dune",
+    "director": "Denis Villeneuve",
+    "genero": [
+      "Ciencia Ficción",
+      "Aventura"
+    ],
+    "año": 2021
+  },
+  {
+    "titulo": "Whiplash",
+    "director": "Damien Chazelle",
+    "genero": [
+      "Drama",
+      "Música"
+    ],
+    "año": 2014
+  },
+  {
+    "titulo": "Gravity",
+    "director": "Alfonso Cuarón",
+    "genero": [
+      "Ciencia Ficción",
+      "Thriller"
+    ],
+    "año": 2013
+  },
+  {
+    "titulo": "Jaws",
+    "director": "Steven Spielberg",
+    "genero": [
+      "Terror",
+      "Aventura"
+    ],
+    "año": 1975
+  },
+  {
+    "titulo": "Her",
+    "director": "Spike Jonze",
+    "genero": [
+      "Romance",
+      "Ciencia Ficción",
+      "Drama"
+    ],
+    "año": 2013
+  },
+  {
+    "titulo": "La vida es bella",
+    "director": "Roberto Benigni",
+    "genero": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ],
+    "año": 1997
+  },
+  {
+    "titulo": "El laberinto del fauno",
+    "director": "Guillermo del Toro",
+    "genero": [
+      "Fantasía",
+      "Drama",
+      "Guerra"
+    ],
+    "año": 2006
+  },
+  {
+    "titulo": "Ciudad de Dios",
+    "director": "Fernando Meirelles y Kátia Lund",
+    "genero": [
+      "Crimen",
+      "Drama"
+    ],
+    "año": 2002
+  },
+  {
+    "titulo": "Slumdog Millionaire",
+    "director": "Danny Boyle",
+    "genero": [
+      "Drama",
+      "Romance"
+    ],
+    "año": 2008
+  },
+  {
+    "titulo": "El Renacido",
+    "director": "Alejandro G. Iñárritu",
+    "genero": [
+      "Aventura",
+      "Drama",
+      "Acción"
+    ],
+    "año": 2015
+  },
+  {
+    "titulo": "Cisne Negro",
+    "director": "Darren Aronofsky",
+    "genero": [
+      "Drama",
+      "Psicológica",
+      "Thriller"
+    ],
+    "año": 2010
+  },
+  {
+    "titulo": "Mad Max: Furia en la carretera",
+    "director": "George Miller",
+    "genero": [
+      "Acción",
+      "Aventura",
+      "Ciencia Ficción"
+    ],
+    "año": 2015
+  },
+  {
+    "titulo": "La lista de Schindler",
+    "director": "Steven Spielberg",
+    "genero": [
+      "Drama",
+      "Histórica",
+      "Biográfica"
+    ],
+    "año": 1993
+  },
+  {
+    "titulo": "Toy Story",
+    "director": "John Lasseter",
+    "genero": [
+      "Animación",
+      "Aventura",
+      "Familiar"
+    ],
+    "año": 1995
+  },
+  {
+    "titulo": "El Gran Hotel Budapest",
+    "director": "Wes Anderson",
+    "genero": [
+      "Comedia",
+      "Aventura",
+      "Drama"
+    ],
+    "año": 2014
+  },
+  {
+    "titulo": "A Minecraft Movie",
+    "director": null,
+    "genero": ["Animación", "Aventura", "Comedia"],
+    "año": 2025
+  },
+  {
+    "titulo": "Lilo & Stitch",
+    "director": "Dean Fleischer Camp",
+    "genero": ["Ciencia Ficción", "Comedia", "Familiar"],
+    "año": 2025
+  },
+  {
+    "titulo": "Superman",
+    "director": null,
+    "genero": ["Acción", "Aventura", "Ciencia Ficción"],
+    "año": 2025
+  },
+  {
+    "titulo": "Jurassic World: Rebirth",
+    "director": null,
+    "genero": ["Acción", "Aventura", "Ciencia Ficción"],
+    "año": 2025
+  },
+  {
+    "titulo": "Sinners",
+    "director": null,
+    "genero": ["Drama", "Crimen"],
+    "año": 2025
+  },
+  {
+    "titulo": "The Fantastic Four: First Steps",
+    "director": null,
+    "genero": ["Acción", "Aventura", "Ciencia Ficción"],
+    "año": 2025
+  },
+  {
+    "titulo": "How to Train Your Dragon",
+    "director": "Dean DeBlois",
+    "genero": ["Aventura", "Familia", "Fantasía"],
+    "año": 2025
+  },
+  {
+    "titulo": "Captain America: Brave New World",
+    "director": null,
+    "genero": ["Acción", "Aventura", "Ciencia Ficción"],
+    "año": 2025
+  },
+  {
+    "titulo": "Mission: Impossible – The Final Reckoning",
+    "director": null,
+    "genero": ["Acción", "Aventura", "Thriller"],
+    "año": 2025
+  },
+  {
+    "titulo": "Thunderbolts*",
+    "director": null,
+    "genero": ["Acción", "Ciencia Ficción", "Aventura"],
+    "año": 2025
+  },
+  {
+    "titulo": "Elio",
+    "director": null,
+    "genero": ["Animación", "Familia", "Comedia"],
+    "año": 2025
+  },
+  {
+    "titulo": "The Monkey",
+    "director": "Oz Perkins",
+    "genero": ["Terror", "Comedia Negra"],
+    "año": 2025
+  },
+  {
+    "titulo": "Mickey 17",
+    "director": null,
+    "genero": ["Ciencia Ficción", "Comedia", "Drama"],
+    "año": 2025
+  },
+  {
+    "titulo": "Black Bag",
+    "director": "Steven Soderbergh",
+    "genero": ["Thriller", "Acción"],
+    "año": 2025
+  },
+  {
+    "titulo": "Presence",
+    "director": "Steven Soderbergh",
+    "genero": ["Terror", "Suspenso"],
+    "año": 2025
+  },
+  {
+    "titulo": "Companion",
+    "director": null,
+    "genero": ["Thriller", "Acción"],
+    "año": 2025
+  },
+  {
+    "titulo": "Novocaine",
+    "director": null,
+    "genero": ["Acción", "Comedia"],
+    "año": 2025
+  },
+  {
+    "titulo": "Tron: Ares",
+    "director": null,
+    "genero": ["Ciencia Ficción", "Acción"],
+    "año": 2025
+  },
+  {
+    "titulo": "Zootopia 2",
+    "director": null,
+    "genero": ["Animación", "Aventura", "Comedia"],
+    "año": 2025
+  },
+  {
+    "titulo": "Wake Up Dead Man: A Knives Out Mystery",
+    "director": null,
+    "genero": ["Suspenso", "Crimen", "Comedia"],
+    "año": 2025
+  },
+    {
+    "titulo": "Beetlejuice Beetlejuice",
+    "director": "Tim Burton",
+    "genero": ["Comedia", "Terror", "Fantasía"],
+    "año": 2024
+  },
+  {
+    "titulo": "Despicable Me 4",
+    "director": "Pierre Coffin & Kyle Balda",
+    "genero": ["Animación", "Comedia", "Familiar"],
+    "año": 2024
+  },
+  {
+    "titulo": "Stree 2",
+    "director": "Amar Kaushik",
+    "genero": ["Horror", "Comedia"],
+    "año": 2024
+  },
+  {
+    "titulo": "Kalki 2898 AD",
+    "director": "Nag Ashwin",
+    "genero": ["Ciencia Ficción", "Acción", "Thriller"],
+    "año": 2024
+  },
+  {
+    "titulo": "Her Story",
+    "director": null,
+    "genero": ["Drama", "Realismo"],
+    "año": 2024
+  },
+  {
+    "titulo": "The Wild Robot",
+    "director": "Chris Sanders",
+    "genero": ["Animación", "Familia", "Aventura"],
+    "año": 2024
+  },
+  {
+    "titulo": "100 Yards",
+    "director": null,
+    "genero": ["Acción", "Drama", "Épico"],
+    "año": 2024
+  },
+  {
+    "titulo": "Baby Assassins 2",
+    "director": null,
+    "genero": ["Acción", "Comedia"],
+    "año": 2024
+  },
+  {
+    "titulo": "I, the Executioner",
+    "director": null,
+    "genero": ["Acción", "Thriller"],
+    "año": 2024
+  },
+  {
+    "titulo": "The Beekeeper",
+    "director": null,
+    "genero": ["Acción", "Comedia"],
+    "año": 2024
+  },
+  {
+    "titulo": "Despicable Me 4",
+    "director": "Pierre Coffin & Kyle Balda",
+    "genero": ["Animación", "Comedia", "Familiar"],
+    "año": 2024
+  },
+  {
+    "titulo": "The Fall Guy",
+    "director": null,
+    "genero": ["Acción", "Comedia"],
+    "año": 2024
+  },
+  {
+    "titulo": "It Ends With Us",
+    "director": null,
+    "genero": ["Romance", "Drama"],
+    "año": 2024
+  },
+  {
+    "titulo": "Red One",
+    "director": null,
+    "genero": ["Acción", "Aventura", "Ciencia Ficción"],
+    "año": 2024
+  },
+  {
+    "titulo": "Anora",
+    "director": "Sean Baker",
+    "genero": ["Drama"],
+    "año": 2024
+  },
+  {
+    "titulo": "Love Lies Bleeding",
+    "director": null,
+    "genero": ["Thriller", "Drama", "Romance"],
+    "año": 2024
+  },
+  {
+    "titulo": "The Room Next Door",
+    "director": null,
+    "genero": ["Terror", "Suspenso"],
+    "año": 2024
+  },
+  {
+    "titulo": "The Seed of the SacredFig",
+    "director": null,
+    "genero": ["Drama"],
+    "año": 2024
+  },
+  {
+    "titulo": "A Real Pain",
+    "director": null,
+    "genero": ["Drama"],
+    "año": 2024
+  },
+  {
+    "titulo": "Hundreds of Beavers",
+    "director": null,
+    "genero": ["Animación", "Familia"],
+    "año": 2024
+  },
+  {
+    "titulo": "Materialists",
+    "director": "Celine Song",
+    "genero": ["Romance", "Drama", "Comedia Romántica"],
+    "año": 2025
+  },
+  {
+    "titulo": "Thug Life",
+    "director": "Mani Ratnam",
+    "genero": ["Acción", "Drama", "Crimen"],
+    "año": 2025
+  },
+  {
+    "titulo": "28 Years Later",
+    "director": "Danny Boyle",
+    "genero": ["Terror", "Suspenso"],
+    "año": 2025
+  },
+    {
+    "titulo": "Cinema Paradiso",
+    "director": "Giuseppe Tornatore",
+    "genero": ["Drama", "Romance"],
+    "año": 1988
+  },
+  {
+    "titulo": "Blade Runner",
+    "director": "Ridley Scott",
+    "genero": ["Ciencia Ficción", "Thriller"],
+    "año": 1982
+  },
+  {
+    "titulo": "El Club de los Cinco",
+    "director": "John Hughes",
+    "genero": ["Comedia", "Drama"],
+    "año": 1985
+  },
+  {
+    "titulo": "Mi vecino Totoro",
+    "director": "Hayao Miyazaki",
+    "genero": ["Animación", "Familiar", "Fantasía"],
+    "año": 1988
+  },
+  {
+    "titulo": "Casablanca",
+    "director": "Michael Curtiz",
+    "genero": ["Romance", "Drama", "Guerra"],
+    "año": 1942
+  },
+  {
+    "titulo": "Psicosis",
+    "director": "Alfred Hitchcock",
+    "genero": ["Terror", "Suspenso"],
+    "año": 1960
+  },
+  {
+    "titulo": "La naranja mecánica",
+    "director": "Stanley Kubrick",
+    "genero": ["Ciencia Ficción", "Drama"],
+    "año": 1971
+  },
+  {
+    "titulo": "El apartamento",
+    "director": "Billy Wilder",
+    "genero": ["Comedia", "Romance", "Drama"],
+    "año": 1960
+  },
+  {
+    "titulo": "Fargo",
+    "director": "Joel Coen",
+    "genero": ["Crimen", "Drama", "Comedia Negra"],
+    "año": 1996
+  },
+  {
+    "titulo": "El secreto de sus ojos",
+    "director": "Juan José Campanella",
+    "genero": ["Drama", "Misterio", "Crimen"],
+    "año": 2009
+  },
+  {
+    "titulo": "12 hombres sin piedad",
+    "director": "Sidney Lumet",
+    "genero": ["Drama", "Crimen"],
+    "año": 1957
+  },
+  {
+    "titulo": "Lawrence de Arabia",
+    "director": "David Lean",
+    "genero": ["Aventura", "Drama", "Histórica"],
+    "año": 1962
+  },
+  {
+    "titulo": "Vértigo",
+    "director": "Alfred Hitchcock",
+    "genero": ["Suspenso", "Romance", "Misterio"],
+    "año": 1958
+  },
+  {
+    "titulo": "Amadeus",
+    "director": "Milos Forman",
+    "genero": ["Drama", "Biográfico", "Música"],
+    "año": 1984
+  },
+  {
+    "titulo": "El club de la pelea",
+    "director": "David Fincher",
+    "genero": ["Drama", "Thriller"],
+    "año": 1999
+  },
+  {
+    "titulo": "Tiempos modernos",
+    "director": "Charles Chaplin",
+    "genero": ["Comedia", "Drama", "Fantasía"],
+    "año": 1936
+  },
+  {
+    "titulo": "El gran dictador",
+    "director": "Charles Chaplin",
+    "genero": ["Comedia", "Drama", "Política"],
+    "año": 1940
+  },
+  {
+    "titulo": "El silencio de los inocentes",
+    "director": "Jonathan Demme",
+    "genero": ["Thriller", "Crimen", "Suspenso"],
+    "año": 1991
+  },
+  {
+    "titulo": "West Side Story",
+    "director": "Robert Wise & Jerome Robbins",
+    "genero": ["Musical", "Drama", "Romance"],
+    "año": 1961
+  },
+  {
+    "titulo": "Ran",
+    "director": "Akira Kurosawa",
+    "genero": ["Drama", "Histórica", "Acción"],
+    "año": 1985
+  },
+    {
+    "titulo": "Eternal Sunshine of the Spotless Mind",
+    "director": "Michel Gondry",
+    "genero": ["Romance", "Drama", "Ciencia Ficción"],
+    "año": 2004
+  },
+  {
+    "titulo": "Pan's Labyrinth",
+    "director": "Guillermo del Toro",
+    "genero": ["Fantasía", "Drama", "Guerra"],
+    "año": 2006
+  },
+  {
+    "titulo": "The Departed",
+    "director": "Martin Scorsese",
+    "genero": ["Crimen", "Thriller", "Drama"],
+    "año": 2006
+  },
+  {
+    "titulo": "There Will Be Blood",
+    "director": "Paul Thomas Anderson",
+    "genero": ["Drama", "Histórica"],
+    "año": 2007
+  },
+  {
+    "titulo": "No Country for Old Men",
+    "director": "Joel & Ethan Coen",
+    "genero": ["Crimen", "Thriller", "Drama"],
+    "año": 2007
+  },
+  {
+    "titulo": "Requiem for a Dream",
+    "director": "Darren Aronofsky",
+    "genero": ["Drama", "Psicológica"],
+    "año": 2000
+  },
+  {
+    "titulo": "The Pianist",
+    "director": "Roman Polanski",
+    "genero": ["Drama", "Histórica", "Biográfica"],
+    "año": 2002
+  },
+  {
+    "titulo": "The Prestige",
+    "director": "Christopher Nolan",
+    "genero": ["Drama", "Misterio", "Thriller"],
+    "año": 2006
+  },
+  {
+    "titulo": "A Beautiful Mind",
+    "director": "Ron Howard",
+    "genero": ["Drama", "Biográfica"],
+    "año": 2001
+  },
+  {
+    "titulo": "Million Dollar Baby",
+    "director": "Clint Eastwood",
+    "genero": ["Drama", "Deportes"],
+    "año": 2004
+  },
+  {
+    "titulo": "Vicky Cristina Barcelona",
+    "director": "Woody Allen",
+    "genero": ["Romance", "Comedia", "Drama"],
+    "año": 2008
+  },
+  {
+    "titulo": "The Social Network",
+    "director": "David Fincher",
+    "genero": ["Drama", "Biográfica"],
+    "año": 2010
+  },
+  {
+    "titulo": "Moon",
+    "director": "Duncan Jones",
+    "genero": ["Ciencia Ficción", "Drama"],
+    "año": 2009
+  },
+  {
+    "titulo": "The King's Speech",
+    "director": "Tom Hooper",
+    "genero": ["Drama", "Biográfica", "Histórica"],
+    "año": 2010
+  },
+  {
+    "titulo": "Shutter Island",
+    "director": "Martin Scorsese",
+    "genero": ["Thriller", "Misterio", "Drama"],
+    "año": 2010
+  },
+  {
+    "titulo": "Inside Man",
+    "director": "Spike Lee",
+    "genero": ["Crimen", "Thriller", "Drama"],
+    "año": 2006
+  },
+  {
+    "titulo": "Drive",
+    "director": "Nicolas Winding Refn",
+    "genero": ["Crimen", "Drama", "Acción"],
+    "año": 2011
+  },
+  {
+    "titulo": "The Hurt Locker",
+    "director": "Kathryn Bigelow",
+    "genero": ["Drama", "Guerra", "Thriller"],
+    "año": 2008
+  },
+  {
+    "titulo": "Coraline",
+    "director": "Henry Selick",
+    "genero": ["Animación", "Fantasía", "Aventura"],
+    "año": 2009
+  },
+  {
+    "titulo": "Kung Fu Panda",
+    "director": "Mark Osborne & John Stevenson",
+    "genero": ["Animación", "Comedia", "Aventura"],
+    "año": 2008
+  },
+  {
+    "titulo": "The Incredibles",
+    "director": "Brad Bird",
+    "genero": ["Animación", "Acción", "Aventura"],
+    "año": 2004
+  },
+  {
+    "titulo": "Spirited Away",
+    "director": "Hayao Miyazaki",
+    "genero": ["Animación", "Fantasía", "Aventura"],
+    "año": 2001
+  },
+  {
+    "titulo": "The Lives of Others",
+    "director": "Florian Henckel von Donnersmarck",
+    "genero": ["Drama", "Thriller", "Política"],
+    "año": 2006
+  },
+  {
+    "titulo": "Finding Nemo",
+    "director": "Andrew Stanton",
+    "genero": ["Animación", "Familia", "Aventura"],
+    "año": 2003
+  },
+  {
+    "titulo": "Big Fish",
+    "director": "Tim Burton",
+    "genero": ["Drama", "Fantasía"],
+    "año": 2003
+  },
+  {
+    "titulo": "21 Grams",
+    "director": "Alejandro González Iñárritu",
+    "genero": ["Drama", "Thriller"],
+    "año": 2003
+  },
+  {
+    "titulo": "Revolutionary Road",
+    "director": "Sam Mendes",
+    "genero": ["Drama", "Romance"],
+    "año": 2008
+  },
+  {
+    "titulo": "Children of Men",
+    "director": "Alfonso Cuarón",
+    "genero": ["Ciencia Ficción", "Thriller", "Drama"],
+    "año": 2006
+  },
+  {
+    "titulo": "Catch Me If You Can",
+    "director": "Steven Spielberg",
+    "genero": ["Crimen", "Drama", "Biográfica"],
+    "año": 2002
+  },
+  {
+    "titulo": "Amores Perros",
+    "director": "Alejandro González Iñárritu",
+    "genero": ["Drama", "Crimen", "Thriller"],
+    "año": 2000
+  },
+  {
+    "titulo": "Little Miss Sunshine",
+    "director": "Jonathan Dayton & Valerie Faris",
+    "genero": ["Comedia", "Drama", "Aventura"],
+    "año": 2006
+  }
+]
