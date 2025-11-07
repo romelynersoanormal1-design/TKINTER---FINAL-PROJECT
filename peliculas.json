@@ -397,532 +397,549 @@
     "genero": ["Acción", "Aventura", "Ciencia Ficción"],
     "año": 2025
   },
-  {
+    {
     "titulo": "How to Train Your Dragon",
     "director": "Dean DeBlois",
     "genero": ["Aventura", "Familia", "Fantasía"],
-    "año": 2025
+    "año": 2025,
+    "resumen": "Un niño vikingo llamado Hipo desafía la tradición al hacerse amigo de un dragón llamado Chimuelo. Cuando surge una antigua amenaza que pone en peligro a ambas especies, la amistad de Hipo con Chimuelo se convierte en la clave para un nuevo futuro.",
+    "imagen": "imagenes-peliculas/HowToTrainYourDragon.jpg"
   },
   {
     "titulo": "Captain America: Brave New World",
     "director": null,
     "genero": ["Acción", "Aventura", "Ciencia Ficción"],
-    "año": 2025
+    "año": 2025,
+    "resumen": "Tras reunirse con el presidente Thaddeus Ross, Sam se encuentra en medio de un incidente internacional y deberá descubrir los motivos detrás de una conspiración global.",
+    "imagen": "imagenes-peliculas/CapAmericaBraveNW.jpg"
   },
   {
     "titulo": "Mission: Impossible – The Final Reckoning",
     "director": null,
     "genero": ["Acción", "Aventura", "Thriller"],
-    "año": 2025
+    "año": 2025,
+    "resumen": "Hunt y su equipo se lanzan a una operación contrarreloj para encontrar a la Entidad, una inteligencia artificial sin escrúpulos con el potencial de destruir a la humanidad.",
+    "imagen": "imagenes-peliculas/MisionImposible_SentenciaFinal.jpg"
   },
   {
-    "titulo": "Thunderbolts*",
+    "titulo": "Thunderbolts",
     "director": null,
     "genero": ["Acción", "Ciencia Ficción", "Aventura"],
-    "año": 2025
+    "año": 2025,
+    "resumen": "Tras caer en una trampa mortal, un peculiar equipo de antihéroes desencantados con la vida se embarca en una peligrosa misión que les obligará a enfrentarse a los momentos más oscuros de su pasado.",
+    "imagen": "imagenes-peliculas/Thunderbolts.jpg"
   },
   {
     "titulo": "Elio",
     "director": null,
     "genero": ["Animación", "Familia", "Comedia"],
-    "año": 2025
+    "año": 2025,
+    "resumen": "Elio es un niño de 11 años con una imaginación desbordante y una gran obsesión por los extraterrestres. Cuando, de repente, se ve transportado a una organización interplanetaria, es identificado por error como el embajador galáctico de la Tierra.",
+    "imagen": "imagenes-peliculas/Elio.jpg"
   },
   {
     "titulo": "The Monkey",
     "director": "Oz Perkins",
     "genero": ["Terror", "Comedia Negra"],
-    "año": 2025
+    "año": 2025,
+    "resumen": "Dos hermanos gemelos encuentran un misterioso mono de cuerda y una serie de muertes atroces separan a su familia. Veinticinco años más tarde, el mono reanuda su macabra trayectoria, obligando a los hermanos separados a enfrentarse al juguete maldito.",
+    "imagen": "imagenes-peliculas/The_Monkey.jpg"
   },
   {
     "titulo": "Mickey 17",
     "director": null,
     "genero": ["Ciencia Ficción", "Comedia", "Drama"],
-    "año": 2025
+    "año": 2025,
+    "resumen": "Mickey 17 es un !prescindible! en una expedición humana enviada para colonizar el mundo helado de Niflheim. Tras morir durante la misión, se regenera en un nuevo cuerpo con la mayoria de sus recuerdos intactos.",
+    "imagen": "imagenes-peliculas/Mickey_17.jpg"
   },
   {
     "titulo": "Black Bag",
     "director": "Steven Soderbergh",
     "genero": ["Thriller", "Acción"],
-    "año": 2025
+    "año": 2025,
+    "resumen": "Kathryn, la esposa de George Woodhouse, agente de Inteligencia, es acusada de haber traicionado a la patria. Ahora, George debe elegir entre la lealtad a su país o a su mujer.",
+    "imagen": "imagenes-peliculas/BlackBag.jpg"
   },
   {
     "titulo": "Presence",
     "director": "Steven Soderbergh",
     "genero": ["Terror", "Suspenso"],
-    "año": 2025
+    "año": 2025,
+    "resumen": "Chloe, una joven en duelo, se muda a los suburbios con su familia. Al percibir una inquietante presencia, sus padres la ignoran, pero algo los acecha.",
+    "imagen": "imagenes-peliculas/Presencia.jpg"
   },
   {
     "titulo": "Companion",
     "director": null,
     "genero": ["Thriller", "Acción"],
-    "año": 2025
+    "año": 2025,
+    "resumen": "Un grupo de amigos va a pasar el fin de semana a la finca de un excéntrico millonario, novio de una de ellos. Allí una de las chicas asesina al dueño de la mansión para evitar que la viole, pero, entonces, descubre que nada es lo que parece.",
+    "imagen": "imagenes-peliculas/Companion.jpg"
   },
   {
     "titulo": "Novocaine",
     "director": null,
     "genero": ["Acción", "Comedia"],
-    "año": 2025
+    "año": 2025,
+    "resumen": "La chica de los sueños de un hombre es secuestrada, haciendo que su incapacidad para sentir dolor se convierta en una ventaja inesperada al luchar contra una banda de matones para rescatarla.",
+    "imagen": "imagenes-peliculas/Novocaine.jpg"
   },
   {
     "titulo": "Tron: Ares",
     "director": null,
     "genero": ["Ciencia Ficción", "Acción"],
-    "año": 2025
+    "año": 2025,
+    "resumen": "Cuenta la historia de Ares, un programa altamente sofisticado que es enviado desde el mundo digital al mundo real en una misión peligrosa, marcando el primer encuentro de la humanidad con seres de inteligencia artificial.",
+    "imagen": "imagenes-peliculas/Tron_Ares.jpg"
   },
   {
     "titulo": "Zootopia 2",
     "director": null,
     "genero": ["Animación", "Aventura", "Comedia"],
-    "año": 2025
+    "año": 2025,
+    "resumen": "Los detectives Judy Hopps y Nick Wilde deben seguir la pista de un misterioso reptil llamado Gary, quien llega a la ciudad y revoluciona a todos sus habitantes. Para resolver el caso, ambos deberán infiltrarse en nuevas áreas de la metrópolis, poniendo a prueba su creciente amistad y colaboración en una misión llena de secretos.",
+    "imagen": "imagenes-peliculas/Zootopia_2.jpg"
   },
   {
     "titulo": "Wake Up Dead Man: A Knives Out Mystery",
     "director": null,
     "genero": ["Suspenso", "Crimen", "Comedia"],
-    "año": 2025
+    "año": 2025,
+    "resumen": "La historia se centra en el detective Benoit Blanc, quien es llamado para investigar un asesinato aparentemente imposible en una pequeña iglesia de Nueva York. Tras el sermón de un monseñor, este entra en una habitación cerrada que no tiene otras entradas, y 30 segundos después es encontrado muerto, un evento que algunos interpretan como un milagro. La jefa de policía local, Geraldine Scott, pide la ayuda de Blanc para desentrañar el misterio, y él sospecha que detrás del aparente milagro hay un asesinato deliberado.",
+    "imagen": "imagenes-peliculas/Knives_Out3.jpg"
   },
     {
     "titulo": "Beetlejuice Beetlejuice",
     "director": "Tim Burton",
     "genero": ["Comedia", "Terror", "Fantasía"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "Después de una tragedia, tres generaciones de la familia Deetz regresan a Winter River. Aún atormentada por Beetlejuice, la vida de Lydia da un vuelco cuando su rebelde hija adolescente, Astrid, descubre el misterioso modelo de la ciudad en el ático.",
+    "imagen": "imagenes-peliculas/Beetlejuice_Beetlejuice.jpg"
   },
   {
     "titulo": "Despicable Me 4",
     "director": "Pierre Coffin & Kyle Balda",
     "genero": ["Animación", "Comedia", "Familiar"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "Gru y su familia deben adoptar identidades falsas para ocultarse de un supervillano, un antiguo compañero de la escuela de Gru que le guarda rencor desde pequeño y pretende convertir a la familia en híbridos entre humano y cucaracha.",
+    "imagen": "imagenes-peliculas/DespicableMe4.jpg"
   },
   {
     "titulo": "Stree 2",
     "director": "Amar Kaushik",
     "genero": ["Horror", "Comedia"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "El pueblo de Chanderi vuelve a ser atormentado, esta vez por una entidad sin cabeza llamada Sarkatta que secuestra a mujeres. Vicky y sus amigos deben volver a la acción para salvar a sus seres queridos de esta nueva amenaza, e incluso la misteriosa mujer de la primera película reaparece para ayudarlos con su intervención más poderosa. ",
+    "imagen": "imagenes-peliculas/Stree2.jpg"
   },
   {
     "titulo": "Kalki 2898 AD",
     "director": "Nag Ashwin",
     "genero": ["Ciencia Ficción", "Acción", "Thriller"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "El futuro de los habitantes de la distópica ciudad de Kasi se ve alterado cuando la llegada del último avatar del dios Visnú desencadena una guerra contra la oscuridad.",
+    "imagen": "imagenes-peliculas/Kalki2898AD.jpg"
   },
   {
     "titulo": "Her Story",
     "director": null,
     "genero": ["Drama", "Realismo"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "Wang Tie Mei, una madre soltera resiliente, se muda a una nueva casa con su hija pequeña, Wang Mo Li, en busca de un nuevo comienzo.",
+    "imagen": "imagenes-peliculas/HerStory.jpg"
   },
   {
     "titulo": "The Wild Robot",
     "director": "Chris Sanders",
     "genero": ["Animación", "Familia", "Aventura"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "La aventura épica de una robot, la unidad ROZZUM 7134, que naufraga en una isla desierta y debe aprender a adaptarse a las inclemencias del entorno. Poco a poco, establece relación con los animales de la isla y adopta a una cría de ganso huérfana.",
+    "imagen": "imagenes-peliculas/WildRobot.jpg"
   },
   {
     "titulo": "100 Yards",
     "director": null,
     "genero": ["Acción", "Drama", "Épico"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "Un maestro de artes marciales muere y sin herederos directos decide nombrar a su mejor discípulo, no a su hijo, como sucesor de su academia en la Tianjin de los años veinte. Esto desencadena una feroz lucha por el control del clan entre el hijo y el discípulo, que amenaza con desestabilizar la paz establecida alrededor de las escuelas de kung-fu",
+    "imagen": "imagenes-peliculas/100Yards.jpg"
   },
   {
     "titulo": "Baby Assassins 2",
     "director": null,
     "genero": ["Acción", "Comedia"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "Las jóvenes asesinas Chisato y Mahiro han sido suspendidas por su organización tras violar una norma. Para salir del apuro deciden conseguir trabajos comunes, pero al mismo tiempo enfrentan a dos hermanos asesinos que buscan eliminarlas para ocupar su lugar. Comedia de acción con muchas explosiones, contrastes generacionales y violencia ligera.",
+    "imagen": "imagenes-peliculas/BabyAssassins2.jpg"
   },
   {
     "titulo": "I, the Executioner",
     "director": null,
     "genero": ["Acción", "Thriller"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "La División de Investigación de Delitos Graves indaga el asesinato de un profesor y descubre conexiones con casos anteriores. Las sospechas sobre un posible asesino en serie se comprueban cuando este anuncia a su próxima víctima en internet.",
+    "imagen": "imagenes-peliculas/TheExecutioner.jpg"
   },
   {
     "titulo": "The Beekeeper",
     "director": null,
     "genero": ["Acción", "Comedia"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "Adam Clay se embarca en la misión de matar a los estafadores que provocaron que su casera se suicidara tras robarle dinero para la beneficencia. Verona, la hija de la casera y agente del FBI, sospecha que el enigmático Adam no es quien asegura ser.",
+    "imagen": "imagenes-peliculas/TheBeekeeper.jpg"
   },
   {
-    "titulo": "Despicable Me 4",
+    "titulo": "Despicable Me 3",
     "director": "Pierre Coffin & Kyle Balda",
     "genero": ["Animación", "Comedia", "Familiar"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "Gru trabaja ahora capturando villanos pero fracasa y es despedido. Poco después descubre que tiene un hermano, Dru, y juntos se enfrentan a un villano que pretende robar un diamante y destruir Hollywood. Sin embargo, Dru quiere convencer a Gru para que además retome su carrera como villano, ya que su padre lo fue también.",
+    "imagen": "imagenes-peliculas/Depicable3.jpg"
   },
   {
     "titulo": "The Fall Guy",
     "director": null,
     "genero": ["Acción", "Comedia"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "El doble de acción Colt Seavers sufre una lesión y abandona la profesión, pero regresa para participar en una película que dirigirá la mujer de la que está enamorado. Todo se complica cuando la estrella del filme, en deuda con narcos, desaparece.",
+    "imagen": "imagenes-peliculas/the_fall_guy.jpg"
   },
   {
     "titulo": "It Ends With Us",
     "director": null,
     "genero": ["Romance", "Drama"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "Lily Bloom se enamora de un neurocirujano tras mudarse a Boston con el objetivo de abrir su propio negocio. Sin embargo, el primer amor de su vida retoma el contacto con ella, y Lily ahora no sabe qué hacer.",
+    "imagen": "imagenes-peliculas/ItEndsWithUs.jpg"
   },
   {
     "titulo": "Red One",
     "director": null,
     "genero": ["Acción", "Aventura", "Ciencia Ficción"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "Poco antes de las fiestas, Papá Noel desaparece sin dejar rastro y todo indica que lo secuestraron. Con el tiempo en contra, el jefe de seguridad del Polo Norte contrata a un cazarrecompensas para rescatarlo antes de Nochebuena y salvar la Navidad.",
+    "imagen": "imagenes-peliculas/Red One.jpg"
   },
   {
     "titulo": "Anora",
     "director": "Sean Baker",
     "genero": ["Drama"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "Una estríper americana de ascendencia rusa se casa con el hijo de un oligarca ruso que está estudiando en Nueva York, pero la familia del chico la considera una prostituta y envía a unos matones para convencer a la pareja de que anulen el matrimonio.",
+    "imagen": "imagenes-peliculas/Anora.jpg"
   },
   {
     "titulo": "Love Lies Bleeding",
     "director": null,
     "genero": ["Thriller", "Drama", "Romance"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "Lou, la solitaria gerente de un gimnasio, se enamora perdidamente de Jackie, una ambiciosa culturista que sueña con ir a Las Vegas para cumplir sus sueños. Sin embargo, su amor se ve arrastrado al mundo violento de la familia de criminales de Lou.",
+    "imagen": "imagenes-peliculas/LoveLiesBleeding.jpg"
   },
   {
     "titulo": "The Room Next Door",
     "director": null,
-    "genero": ["Terror", "Suspenso"],
-    "año": 2024
+    "genero": ["Drama"],
+    "año": 2024,
+    "resumen": "Ingrid y Martha fueron muy amigas en su juventud. Ambas trabajaban en la misma revista, pero Ingrid acabó convertida en novelista de autoficción y Martha en reportera de guerra. Las circunstancias de la vida las separaron y, después de muchos años sin tener contacto, vuelven a encontrarse en una situación extrema, pero extrañamente dulce.",
+    "imagen": "imagenes-peliculas/NextRoom.jpg"
   },
   {
     "titulo": "The Seed of the SacredFig",
     "director": null,
     "genero": ["Drama"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "Las revueltas en Teherán afectan a la plácida vida familiar de un juez de instrucción. La pistola que el gobierno le había entregado desaparece, y solo le queda sospechar de las mujeres que le rodean, su mujer y sus dos hijas.",
+    "imagen": "imagenes-peliculas/TheSeedoftheSacredFig.jpg"
   },
   {
     "titulo": "A Real Pain",
     "director": null,
     "genero": ["Drama"],
-    "año": 2024
+    "año": 2024,
+    "resumen": "Cuenta la historia de dos primos judíos y de lados opuestos que viajan hasta Polonia, en una historia de recuerdos familiares y viejas tensiones.",
+    "imagen": "imagenes-peliculas/RealPain.jpg"
   },
   {
     "titulo": "Hundreds of Beavers",
     "director": null,
     "genero": ["Animación", "Familia"],
-    "año": 2024
+    "año": 2022,
+    "resumen": "Es una comedia muda en blanco y negro sobre un vendedor de aguardiente de manzana llamado Jean Kayak que, tras perderlo todo, debe convertirse en el mayor trampero de pieles de Norteamérica para sobrevivir al invierno y conseguir la mano de la hija del peletero",
+    "imagen": "imagenes-peliculas/HundredsofBeavers.jpg"
   },
   {
     "titulo": "Materialists",
     "director": "Celine Song",
     "genero": ["Romance", "Drama", "Comedia Romántica"],
-    "año": 2025
+    "año": 2025,
+    "resumen": "Una pareja en la treintena navega las tensiones entre deseo y seguridad financiera en la moderna sociedad urbana. A medida que sus expectativas sobre el amor y el éxito chocan, descubren secretos personales y decisiones económicas que ponen a prueba su vínculo; una historia íntima sobre cómo el materialismo y los anhelos románticos moldean las relaciones contemporáneas.",
+    "imagen": "imagenes-peliculas/Materialists.jpg"
   },
   {
     "titulo": "Thug Life",
     "director": "Mani Ratnam",
-    "genero": ["Acción", "Drama", "Crimen"],
-    "año": 2025
+    "genero": ["Acción", "Drama", "Crimen"
+    ],
+    "año": 2025,
+    "resumen": "Un ambicioso líder de banda intenta transformar su organización criminal en un negocio legítimo, pero su pasado violento y las lealtades fracturadas ponen en riesgo la redención. Cuando un nuevo rival y la corrupción policial amenazan todo, debe elegir entre el poder y proteger a su familia en una trama intensa sobre honor, traición y consecuencias.",
+    "imagen": "imagenes-peliculas/thug-life.jpg"
   },
   {
     "titulo": "28 Years Later",
     "director": "Danny Boyle",
     "genero": ["Terror", "Suspenso"],
-    "año": 2025
+    "año": 2025,
+    "resumen": "Décadas después de una plaga devastadora, un grupo de supervivientes descubre indicios de que el virus podría estar resurgiendo. Perseguidos por paranoia, facciones hostiles y ecos de pérdidas pasadas, se embarcan en una desesperada búsqueda para confirmar la amenaza y salvar a quienes quedan. Un thriller postapocalíptico que explora la memoria colectiva y el coste humano de la supervivencia.",
+    "imagen": "imagenes-peliculas/28_Years_Later.jpg"
   },
-    {
+  {
     "titulo": "Cinema Paradiso",
     "director": "Giuseppe Tornatore",
     "genero": ["Drama", "Romance"],
-    "año": 1988
+    "año": 1988,
+    "resumen": "Un cineasta regresa a su pueblo natal tras la muerte de un viejo amigo y rememora su infancia marcada por la magia del cine y su amistad con el proyeccionista del cine local. Entre recuerdos de primeros amores, pérdidas y la transformación de la comunidad, la película celebra el poder del cine para formar identidad y conservar el pasado.",
+    "imagen": "imagenes-peliculas/cp.png"
   },
   {
     "titulo": "Blade Runner",
     "director": "Ridley Scott",
     "genero": ["Ciencia Ficción", "Thriller"],
-    "año": 1982
+    "año": 1982,
+    "resumen": "En un futuro distópico, un 'blade runner' cazador de replicantes cuestiona la naturaleza de la humanidad mientras persigue a androides fugitivos diseñados para ser casi indistinguibles de los humanos. La película mezcla investigación noir con preguntas filosóficas sobre memoria, identidad y moralidad en un paisaje urbano decadente.",
+    "imagen": "imagenes-peliculas/BladeRunner.jpg"
   },
   {
     "titulo": "El Club de los Cinco",
     "director": "John Hughes",
     "genero": ["Comedia", "Drama"],
-    "año": 1985
+    "año": 1985,
+    "resumen": "Cinco estudiantes de secundaria, cada uno con etiquetas sociales diferentes, pasan un sábado en detención y, a través de conversaciones largas y sinceras, descubren verdades personales, miedos y lazos inesperados. Una mirada aguda y empática a la adolescencia, la identidad y la soledad detrás de las apariencias.",
+    "imagen": "imagenes-peliculas/El_club_de_los_cinco.jpg"
   },
   {
     "titulo": "Mi vecino Totoro",
     "director": "Hayao Miyazaki",
     "genero": ["Animación", "Familiar", "Fantasía"],
-    "año": 1988
+    "año": 1988,
+    "resumen": "Dos hermanas se mudan al campo y descubren criaturas mágicas que habitan el bosque cercano, incluyendo al amable espíritu Totoro. A través de aventuras llenas de asombro, la película celebra la infancia, la imaginación y la conexión con la naturaleza, ofreciendo consuelo en tiempos de incertidumbre familiar.",
+    "imagen": "imagenes-peliculas/mi-vecino-totoro.jpg"
   },
   {
     "titulo": "Casablanca",
     "director": "Michael Curtiz",
     "genero": ["Romance", "Drama", "Guerra"],
-    "año": 1942
+    "año": 1942,
+    "resumen": "En la ciudad marroquí de Casablanca durante la Segunda Guerra Mundial, un dueño de bar reencuentra a un antiguo amor cuya circunstancia política le exige tomar una decisión moral que afectará a muchos. Una historia emblemática sobre sacrificio, amor y la lucha por la libertad en tiempos de conflicto.",
+    "imagen": "imagenes-peliculas/Casablanca.jpg"
   },
   {
     "titulo": "Psicosis",
     "director": "Alfred Hitchcock",
     "genero": ["Terror", "Suspenso"],
-    "año": 1960
+    "año": 1960,
+    "resumen": "Una joven protagonista en fuga se hospeda en un aislado motel dirigido por un hombre misterioso y su madre controladora. A medida que secretos y violencia salen a la luz, la película redefine el thriller psicológico con giros inquietantes y una exploración de la mente perturbada.",
+    "imagen": "imagenes-peliculas/Psicosis.jpg"
   },
   {
     "titulo": "La naranja mecánica",
     "director": "Stanley Kubrick",
     "genero": ["Ciencia Ficción", "Drama"],
-    "año": 1971
+    "año": 1971,
+    "resumen": "En una sociedad futura, un joven violento es sometido a un controvertido tratamiento de rehabilitación que cuestiona la libertad, la identidad y la ética del control estatal. Una reflexión provocadora sobre la violencia, la moralidad y el poder coercitivo del estado.",
+    "imagen": "imagenes-peliculas/Lanaranjamecánica.jpg"
   },
   {
     "titulo": "El apartamento",
     "director": "Billy Wilder",
     "genero": ["Comedia", "Romance", "Drama"],
-    "año": 1960
+    "año": 1960,
+    "resumen": "Un empleado de oficina presta su apartamento a jefes para que tengan citas clandestinas, con la esperanza de ascender en su carrera. Cuando su propia vida emocional se complica, debe enfrentar la hipocresía empresarial y defender su dignidad. Una comedia romántica con toque social y humano.",
+    "imagen": "imagenes-peliculas/ElApartamento.jpg"
   },
   {
     "titulo": "Fargo",
     "director": "Joel Coen",
     "genero": ["Crimen", "Drama", "Comedia Negra"],
-    "año": 1996
+    "año": 1996,
+    "resumen": "Un secuestro planeado sale mal en Minnesota, desencadenando una cadena de violencia e incompetencia. Una jefa de policía embarazada lidera la investigación en medio de personajes pintorescos y circunstancias absurdas; una mezcla única de humor negro y thriller criminal.",
+    "imagen": "imagenes-peliculas/Fargo.jpg"
   },
   {
     "titulo": "El secreto de sus ojos",
     "director": "Juan José Campanella",
     "genero": ["Drama", "Misterio", "Crimen"],
-    "año": 2009
+    "año": 2009,
+    "resumen": "Un funcionario judicial retirado reabre un viejo caso de asesinato que marcó su vida personal y profesional, desencadenando recuerdos de amor no realizado y de injusticias persistentes. La película entrelaza investigación, memoria y redención en una narrativa intensa y emotiva.",
+    "imagen": "imagenes-peliculas/Elsecretodesusojos.jpg"
   },
   {
     "titulo": "12 hombres sin piedad",
     "director": "Sidney Lumet",
     "genero": ["Drama", "Crimen"],
-    "año": 1957
+    "año": 1957,
+    "resumen": "Doce jurados deliberan sobre la culpabilidad de un joven acusado de asesinato; lo que comienza como un veredicto aparentemente claro se convierte en un intenso examen de prejuicios, dudas razonables y responsabilidad cívica. Un drama claustrofóbico sobre la justicia y la deliberación moral.",
+    "imagen": "imagenes-peliculas/Doce_hombres_sin_piedad.jpg"
   },
   {
     "titulo": "Lawrence de Arabia",
     "director": "David Lean",
     "genero": ["Aventura", "Drama", "Histórica"],
-    "año": 1962
+    "año": 1962,
+    "resumen": "La épica biográfica sigue a un oficial británico cuya habilidad para ganarse la confianza de las tribus árabes cambia el curso de campañas durante la Primera Guerra Mundial. Una obra monumental sobre identidad, poder y la ambigüedad heroica en paisajes desérticos impresionantes.",
+    "imagen": "imagenes-peliculas/LawrenceArabia.jpg"
   },
   {
     "titulo": "Vértigo",
     "director": "Alfred Hitchcock",
     "genero": ["Suspenso", "Romance", "Misterio"],
-    "año": 1958
+    "año": 1958,
+    "resumen": "Un detective retirado, aquejado de vértigo, es contratado para vigilar a la esposa de un antiguo conocido y termina obsesionándose con ella. La película explora la obsesión, la identidad y la ilusión a través de una atmósfera onírica y una intrincada trama psicológica.",
+    "imagen": "imagenes-peliculas/Vertigo.jpg"
   },
   {
     "titulo": "Amadeus",
     "director": "Milos Forman",
     "genero": ["Drama", "Biográfico", "Música"],
-    "año": 1984
+    "año": 1984,
+    "resumen": "Relato ficcionado de la vida del compositor Mozart desde la envidia y la perspectiva del músico rival Salieri, que mezcla genialidad artística con intriga personal. Una obra sobre talento, celos y la destrucción que la admiración vengativa puede provocar.",
+    "imagen": "imagenes-peliculas/Amadeus.jpg"
   },
   {
     "titulo": "El club de la pelea",
     "director": "David Fincher",
     "genero": ["Drama", "Thriller"],
-    "año": 1999
+    "año": 1999,
+    "resumen": "Un hombre desilusionado con su vida monótona forma un club clandestino de peleas junto a un carismático y anárquico socio, lo que desemboca en una espiral de violencia y subversión que cuestiona la identidad, el consumismo y la masculinidad moderna.",
+    "imagen": "imagenes-peliculas/ElClubDelaPelea.jpg"
   },
   {
     "titulo": "Tiempos modernos",
     "director": "Charles Chaplin",
     "genero": ["Comedia", "Drama", "Fantasía"],
-    "año": 1936
+    "año": 1936,
+    "resumen": "Un trabajador de fábrica lucha por sobrevivir en una sociedad industrializada que deshumaniza a los individuos. Con su mezcla de humor físico y crítica social, la película satiriza la mecanización, la pobreza y la búsqueda de dignidad en la era moderna.",
+    "imagen": "imagenes-peliculas/Modern_Times.jpg"
   },
   {
     "titulo": "El gran dictador",
     "director": "Charles Chaplin",
     "genero": ["Comedia", "Drama", "Política"],
-    "año": 1940
+    "año": 1940,
+    "resumen": "Una sátira política donde Chaplin interpreta a un barbero judío y a un dictador parecido a Hitler, usando humor y un poderoso discurso final para condenar el autoritarismo y promover la humanidad y la solidaridad en tiempos de guerra.",
+    "imagen": "imagenes-peliculas/ElGranDictador.jpg"
   },
   {
     "titulo": "El silencio de los inocentes",
     "director": "Jonathan Demme",
     "genero": ["Thriller", "Crimen", "Suspenso"],
-    "año": 1991
+    "año": 1991,
+    "resumen": "Una joven agente del FBI recurre a un brillante pero peligroso psiquiatra encarcelado para atrapar a un asesino en serie. Un tenso juego psicológico que explora el manipulative intelecto criminal y la perseverancia en la investigación policial.",
+    "imagen": "imagenes-peliculas/Elsilenciodeosinocentes.jpg"
   },
   {
     "titulo": "West Side Story",
     "director": "Robert Wise & Jerome Robbins",
     "genero": ["Musical", "Drama", "Romance"],
-    "año": 1961
+    "año": 1961,
+    "resumen": "Adaptación moderna de Romeo y Julieta ambientada en Nueva York, donde dos bandas rivales y un amor prohibido desencadenan tragedia y reflexión sobre prejuicio, identidad y esperanza. Canciones y coreografías intensifican la emoción y el conflicto social.",
+    "imagen": "imagenes-peliculas/West_Side_Story.jpg"
   },
   {
     "titulo": "Ran",
     "director": "Akira Kurosawa",
     "genero": ["Drama", "Histórica", "Acción"],
-    "año": 1985
+    "año": 1985,
+    "resumen": "Una épica adaptación libre de 'El rey Lear' situada en Japón feudal, que narra la caída de un señor de la guerra y el caos que sigue cuando sus hijos se disputan el poder. Una tragedia visualmente majestuosa sobre traición, ambición y destrucción.",
+    "imagen": "imagenes-peliculas/Ran.jpg"
   },
-    {
+  {
     "titulo": "Eternal Sunshine of the Spotless Mind",
     "director": "Michel Gondry",
     "genero": ["Romance", "Drama", "Ciencia Ficción"],
-    "año": 2004
+    "año": 2004,
+    "resumen": "Tras una dolorosa ruptura, una pareja recurre a un procedimiento para borrar los recuerdos mutuos, pero mientras los recuerdos se desvanecen, redescubren la profundidad de su vínculo. Una exploración lírica y original sobre memoria, amor y la imperfección humana.",
+    "imagen": "imagenes-peliculas/EernalSuchine.jpg"
   },
   {
     "titulo": "Pan's Labyrinth",
     "director": "Guillermo del Toro",
     "genero": ["Fantasía", "Drama", "Guerra"],
-    "año": 2006
+    "año": 2006,
+    "resumen": "En la España de la posguerra, una niña escapa a un mundo fantástico de pruebas y criaturas en paralelo a la violencia real de su entorno. Una fábula oscura que entrelaza política, inocencia y sacrificio con una imaginería rica y perturbadora.",
+    "imagen": "imagenes-peliculas/PansLabyrint.jpg"
   },
   {
     "titulo": "The Departed",
     "director": "Martin Scorsese",
     "genero": ["Crimen", "Thriller", "Drama"],
-    "año": 2006
+    "año": 2006,
+    "resumen": "En Boston, un topo dentro de la policía y un infiltrado en la mafia intentan descubrirse mutuamente mientras las tensiones escalan hacia una confrontación violenta. Un thriller cargado de traición, identidad y justicia fallida.",
+    "imagen": "imagenes-peliculas/TheDeparted.jpg"
   },
   {
     "titulo": "There Will Be Blood",
     "director": "Paul Thomas Anderson",
     "genero": ["Drama", "Histórica"],
-    "año": 2007
+    "año": 2007,
+    "resumen": "La ambición implacable de un magnate petrolero conduce a la acumulación de poder y aislamiento moral. La película examina la avaricia, la religión y la corrupción del sueño americano a través de una actuación central intensa y una narrativa de destrucción personal.",
+    "imagen": "imagenes-peliculas/hereWilBlood.jpg"
   },
   {
     "titulo": "No Country for Old Men",
     "director": "Joel & Ethan Coen",
     "genero": ["Crimen", "Thriller", "Drama"],
-    "año": 2007
+    "año": 2007,
+    "resumen": "Tras un hallazgo de dinero tras un negocio fallido de drogas, un hombre común se ve perseguido por un asesino implacable mientras un veterano de la ley reflexiona sobre el cambio de tiempos y la violencia sin sentido. Un thriller sombrío sobre destino y moralidad.",
+    "imagen": "imagenes-peliculas/No_Country_for_Old_Men.jpg"
   },
   {
     "titulo": "Requiem for a Dream",
     "director": "Darren Aronofsky",
     "genero": ["Drama", "Psicológica"],
-    "año": 2000
+    "año": 2000,
+    "resumen": "La adicción y la búsqueda obsesiva de sueños de éxito destruyen gradualmente a cuatro personas, mostrando la espiral descendente de esperanza convertida en devastación. Un retrato visceral y perturbador del coste psicológico y físico de la dependencia.",
+    "imagen": "imagenes-peliculas/Requiem.jpg"
   },
   {
     "titulo": "The Pianist",
     "director": "Roman Polanski",
     "genero": ["Drama", "Histórica", "Biográfica"],
-    "año": 2002
+    "año": 2002,
+    "resumen": "Basada en la historia real de un pianista judío que lucha por sobrevivir durante la ocupación nazi de Varsovia, la película narra resistencia, pérdida y la persistencia del espíritu humano en medio del horror. Un testimonio íntimo de supervivencia y arte en tiempos oscuros.",
+    "imagen": "imagenes-peliculas/ThePianist.jpg"
   },
   {
     "titulo": "The Prestige",
     "director": "Christopher Nolan",
     "genero": ["Drama", "Misterio", "Thriller"],
-    "año": 2006
-  },
-  {
-    "titulo": "A Beautiful Mind",
-    "director": "Ron Howard",
-    "genero": ["Drama", "Biográfica"],
-    "año": 2001
-  },
-  {
-    "titulo": "Million Dollar Baby",
-    "director": "Clint Eastwood",
-    "genero": ["Drama", "Deportes"],
-    "año": 2004
-  },
-  {
-    "titulo": "Vicky Cristina Barcelona",
-    "director": "Woody Allen",
-    "genero": ["Romance", "Comedia", "Drama"],
-    "año": 2008
-  },
-  {
-    "titulo": "The Social Network",
-    "director": "David Fincher",
-    "genero": ["Drama", "Biográfica"],
-    "año": 2010
-  },
-  {
-    "titulo": "Moon",
-    "director": "Duncan Jones",
-    "genero": ["Ciencia Ficción", "Drama"],
-    "año": 2009
-  },
-  {
-    "titulo": "The King's Speech",
-    "director": "Tom Hooper",
-    "genero": ["Drama", "Biográfica", "Histórica"],
-    "año": 2010
-  },
-  {
-    "titulo": "Shutter Island",
-    "director": "Martin Scorsese",
-    "genero": ["Thriller", "Misterio", "Drama"],
-    "año": 2010
-  },
-  {
-    "titulo": "Inside Man",
-    "director": "Spike Lee",
-    "genero": ["Crimen", "Thriller", "Drama"],
-    "año": 2006
-  },
-  {
-    "titulo": "Drive",
-    "director": "Nicolas Winding Refn",
-    "genero": ["Crimen", "Drama", "Acción"],
-    "año": 2011
-  },
-  {
-    "titulo": "The Hurt Locker",
-    "director": "Kathryn Bigelow",
-    "genero": ["Drama", "Guerra", "Thriller"],
-    "año": 2008
-  },
-  {
-    "titulo": "Coraline",
-    "director": "Henry Selick",
-    "genero": ["Animación", "Fantasía", "Aventura"],
-    "año": 2009
-  },
-  {
-    "titulo": "Kung Fu Panda",
-    "director": "Mark Osborne & John Stevenson",
-    "genero": ["Animación", "Comedia", "Aventura"],
-    "año": 2008
-  },
-  {
-    "titulo": "The Incredibles",
-    "director": "Brad Bird",
-    "genero": ["Animación", "Acción", "Aventura"],
-    "año": 2004
-  },
-  {
-    "titulo": "Spirited Away",
-    "director": "Hayao Miyazaki",
-    "genero": ["Animación", "Fantasía", "Aventura"],
-    "año": 2001
-  },
-  {
-    "titulo": "The Lives of Others",
-    "director": "Florian Henckel von Donnersmarck",
-    "genero": ["Drama", "Thriller", "Política"],
-    "año": 2006
-  },
-  {
-    "titulo": "Finding Nemo",
-    "director": "Andrew Stanton",
-    "genero": ["Animación", "Familia", "Aventura"],
-    "año": 2003
-  },
-  {
-    "titulo": "Big Fish",
-    "director": "Tim Burton",
-    "genero": ["Drama", "Fantasía"],
-    "año": 2003
-  },
-  {
-    "titulo": "21 Grams",
-    "director": "Alejandro González Iñárritu",
-    "genero": ["Drama", "Thriller"],
-    "año": 2003
-  },
-  {
-    "titulo": "Revolutionary Road",
-    "director": "Sam Mendes",
-    "genero": ["Drama", "Romance"],
-    "año": 2008
-  },
-  {
-    "titulo": "Children of Men",
-    "director": "Alfonso Cuarón",
-    "genero": ["Ciencia Ficción", "Thriller", "Drama"],
-    "año": 2006
+    "año": 2006,
+    "resumen": "Dos ilusionistas rivales se enredan en una guerra obsesiva por superar al otro con trucos cada vez más peligrosos, llevando a secretos, traiciones y sacrificios extremos. Una narrativa de engaños, identidad y las consecuencias mortales de la obsesión.",
+    "imagen": "imagenes-peliculas/hePrestig.jpg"
   },
   {
     "titulo": "Catch Me If You Can",
     "director": "Steven Spielberg",
     "genero": ["Crimen", "Drama", "Biográfica"],
-    "año": 2002
+    "año": 2002,
+    "resumen": "Basada en hechos reales, sigue a Frank Abagnale Jr., un joven estafador maestro que asume múltiples identidades mientras evade a un persistente agente del FBI que termina convirtiéndose en su figura paterna.",
+    "imagen": "imagenes-peliculas/CatchMe.jpg"
   },
   {
     "titulo": "Amores Perros",
     "director": "Alejandro González Iñárritu",
     "genero": ["Drama", "Crimen", "Thriller"],
-    "año": 2000
+    "año": 2000,
+    "resumen": "Tres historias entrelazadas en la Ciudad de México, unidas por un accidente automovilístico, exploran el amor, la pérdida y la violencia desde diferentes perspectivas sociales.",
+    "imagen": "imagenes-peliculas/AmoresPerros.jpg"
   },
   {
     "titulo": "Little Miss Sunshine",
     "director": "Jonathan Dayton & Valerie Faris",
     "genero": ["Comedia", "Drama", "Aventura"],
-    "año": 2006
+    "año": 2006,
+    "resumen": "Una familia disfuncional viaja en una vieja furgoneta para llevar a la pequeña Olive a un concurso de belleza infantil. El viaje se convierte en una travesía emocional que los une a pesar de sus diferencias.",
+    "imagen": "imagenes-peliculas/pequena-miss-sunshine.jpg"
   }
 ]
